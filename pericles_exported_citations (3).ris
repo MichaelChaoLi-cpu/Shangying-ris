@@ -1,0 +1,28 @@
+
+TY  - JOUR
+T1  - Advancing Firm-Specific ESG Sentiment Analysis: A Machine Learning Approach to Clustering, Prediction, and Financial Performance Implications
+AU  - Sultana, Nargis
+AU  - Zeya, Fahad
+Y1  - 2025/09/01
+PY  - 2025
+DA  - 2025/09/01
+DO  - https://doi.org/10.1002/bsd2.70150
+T2  - Business Strategy & Development
+JF  - Business Strategy & Development
+JO  - Business Strategy & Development
+JA  - Bus Strat Dev
+SP  - e70150
+VL  - 8
+IS  - 3
+KW  - clustering
+KW  - corporate sustainability
+KW  - ESG sentiment
+KW  - financial performance
+KW  - legitimacy theory
+KW  - machine learning
+KW  - PCA
+PB  - John Wiley & Sons, Ltd
+UR  - https://doi.org/10.1002/bsd2.70150
+Y2  - 2026/04/13
+N2  - ABSTRACT As corporate sustainability faces increasing scrutiny from investors and policymakers, measuring firm-specific ESG sentiment remains a challenge. Traditional ESG indices often aggregate data at the industry or national level, overlooking firm-level variations. This study introduces a data-driven framework that integrates clustering analysis, principal component analysis (PCA), and machine learning models to identify distinct ESG sentiment patterns. Using K-means and Hierarchical Clustering, firms are segmented based on ESG sentiment scores, uncovering significant differences in sustainability disclosures and financial risk. Predictive modeling with Random Forest and XGBoost further demonstrates that firms with higher ESG sentiment experience lower financial risk and greater investor confidence. Statistical validation through ANOVA analysis confirms the robustness of the identified clusters, revealing substantial heterogeneity in ESG reporting. Grounded in legitimacy and signaling theories, this research explains how firms strategically disclose ESG information to enhance credibility and attract capital. By providing a quantitative ESG assessment framework, this study offers valuable insights for investors, policymakers, and corporate leaders seeking to improve investment decisions, regulatory compliance, and sustainability benchmarking. Addressing limitations in traditional ESG ratings, our findings contribute to advancing ESG measurement methodologies and laying the foundation for dynamic firm-specific ESG sentiment modeling.
+ER  - 

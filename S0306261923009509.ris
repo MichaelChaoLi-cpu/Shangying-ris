@@ -1,0 +1,25 @@
+TY  - JOUR
+T1  - Decentralized optimization for integrated electricity–heat systems with data center based energy hub considering communication packet loss
+AU  - Li, Weiwei
+AU  - Qian, Tong
+AU  - Zhao, Wei
+AU  - Huang, Wenwei
+AU  - Zhang, Yin
+AU  - Xie, Xuehua
+AU  - Tang, Wenhu
+JO  - Applied Energy
+VL  - 350
+SP  - 121586
+PY  - 2023
+DA  - 2023/11/15/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2023.121586
+UR  - https://www.sciencedirect.com/science/article/pii/S0306261923009509
+KW  - Data center
+KW  - Heat recovery
+KW  - Energy hub
+KW  - Integrated electricity–heat systems
+KW  - Learning-aided relaxed alternating direction method of multipliers
+KW  - Lossy communications
+AB  - Recently, waste heat recovery has enabled data centers to serve as energy prosumers with flexible features that play essential roles in the coordination operation of integrated electricity–heat systems (IEHSs). The energy hub, as a critical component of IEHSs, provides a promising opportunity to improve energy efficiency. In this paper, the decentralized coordination optimization for IEHSs with data centers is explored to protect the confidential information of different entities. First, a novel data center based energy hub (DCEH) model is developed, where energy conversion, consumption and storage present high flexibility. Especially, in addition to heat recovery, several other controllable operational characteristics of a single data center are considered, involving servers, workloads and indoor temperature. Then, the coordination optimization model of IEHSs with DCEH (IEHSs-DCEH) is constructed by incorporating energy consumption cost and carbon emission, where the energy networks of IEHSs are considered. Moreover, a learning-aided relaxed alternating direction method of multipliers (LR-ADMM) algorithm is proposed to solve the dispatching model of IEHSs-DCEH considering communication packet loss. The proposed LR-ADMM algorithm embeds a momentum extrapolation based prediction technique, which can obtain the predicted value of missing boundary information without adding computational burden, even in continuous packet losses. Simulation results demonstrate that the developed coordination dispatching model can achieve higher economic and environmental benefits than the reference one that ignores data centers’ flexibility. Additionally, the proposed LR-ADMM algorithm with proper prediction factors exhibits a faster convergence rate and robustness hedging against packet losses compared to the ADMM and relaxed ADMM approaches.
+ER  - 

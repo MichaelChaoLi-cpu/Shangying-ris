@@ -1,0 +1,27 @@
+TY  - JOUR
+T1  - Root segmentation beyond species boundaries: A generalizable framework for anatomical analysis
+AU  - Qian, Yifei
+AU  - Kok, Yong En
+AU  - Janes, George
+AU  - Nakombo-Gbassault, Princia
+AU  - Atkinson, Brian
+AU  - Atkinson, Jonathan
+AU  - Hanlon, Molly
+AU  - Wells, Darren M.
+AU  - Pound, Michael P.
+JO  - Plant Phenomics
+VL  - 8
+IS  - 1
+SP  - 100146
+PY  - 2026
+DA  - 2026/03/01/
+SN  - 2643-6515
+DO  - https://doi.org/10.1016/j.plaphe.2025.100146
+UR  - https://www.sciencedirect.com/science/article/pii/S2643651525001529
+KW  - Deep learning
+KW  - Low-cost
+KW  - Root anatomical segmentation
+KW  - Multi-modalities
+KW  - Limited data
+AB  - Root anatomical features are critical for plant performance characterization, yet phenotyping at the anatomical scale remains limited by the extreme annotation burden of cellular segmentation. We present a two-stage segmentation framework that greatly reduces annotation requirements while maintaining high accuracy across diverse plant species and imaging conditions. Our approach decomposes multi-class segmentation into species-agnostic tissue identification followed by tissue type classification. By designing robust input representations invariant to imaging artifacts and morphological variations, our framework enables rapid adaptation to new species with fewer than 40 labeled images. Additionally, the first stage automatically generates tissue boundaries, transforming tedious manual tracing into simple tissue labeling. We validate our method on pearl millet, and sorghum root cross-sections from different imaging protocols, achieving state-of-the-art performance while dramatically reducing deployment time. This efficiency breakthrough enables scalable root phenotyping across diverse crop species, accelerating the development of climate-resilient varieties for global food security.
+ER  - 

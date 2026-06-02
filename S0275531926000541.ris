@@ -1,0 +1,18 @@
+TY  - JOUR
+T1  - Do climate risk and ESG sentiment predict clean energy performance? Evidence from quantile-on-quantile analysis
+AU  - Naifar, Nader
+JO  - Research in International Business and Finance
+VL  - 84
+SP  - 103327
+PY  - 2026
+DA  - 2026/04/01/
+SN  - 0275-5319
+DO  - https://doi.org/10.1016/j.ribaf.2026.103327
+UR  - https://www.sciencedirect.com/science/article/pii/S0275531926000541
+KW  - Climate risk
+KW  - ESG Momentum
+KW  - Investor attention
+KW  - Clean energy transition
+KW  - Quantile-on-quantile analysis
+AB  - This study examines the predictive power of climate risk and ESG sentiment on the performance of clean energy markets using novel non-parametric econometric techniques. To capture the dependence structures and asymmetries across the conditional distribution of returns, we employ univariate quantile-on-quantile regression (QQR), multivariate quantile-on-quantile regression (MQQR), quantile-on-quantile Granger causality (QQGC), and quantile-on-quantile connectedness (QQC) approaches using data from May 2015 to March 2025. Our findings indicate that ESG momentum is a significant and state-contingent predictor of clean energy returns, with its influence most substantial under bullish market regimes or during recovery phases following downturns. Climate policy uncertainty (CPU) exhibits a nonlinear and asymmetric impact, exerting the most significant predictive power and connectedness during both pessimistic and euphoric states. Investor attention (ATT), while more erratic, plays an amplification role under extreme sentiment conditions. The MQQR model reveals that the effects of ESG, CPU, and ATT are not isolated but interactively reinforce or offset each other, depending on the prevailing market state. The QQGC and QQC results validate the robustness of these interdependencies, confirming that dynamic, joint effects of sentiment and policy signals shape the sensitivity of clean energy markets.
+ER  - 

@@ -1,0 +1,24 @@
+
+TY  - JOUR
+T1  - Text, tone, and legal language: Analyzing mutual fund disclosure sentiment
+AU  - Tucker, Anne M.
+AU  - Xia, Yusen
+AU  - Smelcer, Susan Navarro
+Y1  - 2024/03/01
+PY  - 2024
+DA  - 2024/03/01
+DO  - https://doi.org/10.1111/ablj.12239
+T2  - American Business Law Journal
+JF  - American Business Law Journal
+JO  - American Business Law Journal
+JA  - Am Bus Law J
+SP  - 57
+EP  - 86
+VL  - 61
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0002-7766
+UR  - https://doi.org/10.1111/ablj.12239
+Y2  - 2026/04/13
+N2  - Abstract Mutual fund disclosures must include information about a fund's strategies and risks to comply with the letter of the law. But funds should also honor the spirit of Securities and Exchange Commission (SEC) regulations, including informing ordinary investors. Disclosure language creates impressions that can be just as important as the content. But evaluating these soft aspects of disclosures is hard. In this article, we propose using disclosure tone?how positive or negative the language is?to empirically capture these impressions. This measure provides an additional tool to assess compliance with the spirit of disclosure laws. Building on finance research on company disclosures, we develop customized dictionaries specific to mutual fund disclosures. We then introduce a novel sentiment-scoring framework that generates transparent sentence- and disclosure-level scores for our sample of 164,602 mutual fund summary prospectuses (497k) from 2010 to 2020. Our descriptive analysis validates our dictionary by showing meaningful and statistically significant differences across disclosure sections, fund type, and time. Funds' statements of their principal risks are more negative (and uniformly so) across time than funds' descriptions of their investment strategies. We further explore these relationships using a fixed-effects regression model. These analyses reveal statistically significant relationships between mutual fund disclosure tone and fund attributes, performance, and disclosure characteristics. These relationships are consistent with SEC requirements that anchor risk discussions in more negative language than strategy discussions. The findings also highlight the role of legal language in setting the overall disclosure tone. Our context-sensitive approach provides a path to regulate compliance more effectively with both the letter and the spirit of the law. Our framework, which we have made publicly available, provides a robust tool to allow researchers and regulators to assess not only what funds say, but how they say it.
+ER  - 

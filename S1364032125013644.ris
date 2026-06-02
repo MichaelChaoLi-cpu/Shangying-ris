@@ -1,0 +1,24 @@
+TY  - JOUR
+T1  - Electricity–carbon coupling markets: mechanisms, models and digital enablers for low-carbon power system
+AU  - Du, Pengcheng
+AU  - Liu, Tianhao
+AU  - Zhang, Dongdong
+AU  - Du, Yu
+AU  - Kong, Fannie
+AU  - Huang, Chao
+AU  - Zhao, Haisen
+AU  - Goh, Hui Hwang
+JO  - Renewable and Sustainable Energy Reviews
+VL  - 230
+SP  - 116691
+PY  - 2026
+DA  - 2026/04/01/
+SN  - 1364-0321
+DO  - https://doi.org/10.1016/j.rser.2025.116691
+UR  - https://www.sciencedirect.com/science/article/pii/S1364032125013644
+KW  - Electricity–carbon coupling trading
+KW  - Core mechanism
+KW  - Technology empowerment
+KW  - Low-carbon power systems
+AB  - Electricity–carbon coupling trading (ECCT) is emerging as a practical way to connect carbon price signals with power system operation. This Review addresses three questions: how electricity and carbon markets are coupled in terms of market actors, price transmission and quota allocation; how these mechanisms can be represented in a coherent multi-agent modeling framework; and which digital tools are useful for ECCT implementation under real-world constraints. First, this Review examines global experience with carbon markets and power–carbon integration pilots and summarizes a three-dimensional mechanism framework that covers market-actor coordination, electricity–carbon price linkage and dynamic quota adjustment. Second, this Review synthesizes typical agent-based formulations for fossil generators, renewable producers and demand-side users into a unified modeling template and uses this template to interpret and compare existing ECCT studies. Third, this Review discusses the enabling roles and current limitations of high-precision carbon accounting, blockchain-based trust architectures and AI-driven market simulation. On this basis, this Review outlines key implementation challenges and policy implications.
+ER  - 

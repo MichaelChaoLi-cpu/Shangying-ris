@@ -1,0 +1,20 @@
+TY  - JOUR
+T1  - Artificial intelligence applications in urban extreme heat management: A systematic review of forecasting, monitoring, mitigation and decision support
+AU  - Rui, Jin
+AU  - Shabrina, Zahratu
+AU  - Gong, Wenjing
+JO  - Environmental Impact Assessment Review
+VL  - 119
+SP  - 108363
+PY  - 2026
+DA  - 2026/06/01/
+SN  - 0195-9255
+DO  - https://doi.org/10.1016/j.eiar.2026.108363
+UR  - https://www.sciencedirect.com/science/article/pii/S0195925526000375
+KW  - Artificial intelligence
+KW  - Urban extreme heat
+KW  - Machine learning
+KW  - Climate adaptation
+KW  - Smart city
+AB  - Against the backdrop of global warming and rapid urbanization, urban extreme heat is becoming increasingly severe, with profound impacts on public health, infrastructure, and social equity. Advances in artificial intelligence (AI) offer new opportunities to address this challenge. This systematic review examines 102 publications on AI applications in urban extreme heat governance. The findings reveal a “Northern bias,” with most studies in the United States, China, and Europe, while gaps exist in sub-Saharan Africa and Latin America. Supervised learning dominates current approaches. AI demonstrates effectiveness across four dimensions of governance. In prediction and early warning, random forests and XGBoost are suitable for short-term forecasting, CNNs and LSTMs excel at spatiotemporal patterns, and hybrid models improve accuracy. In monitoring and assessment, AI overcomes spatiotemporal limits of remote sensing, shifting from static heat mapping to dynamic heat–population risk identification, with social media capturing residents' perceptions. In mitigation and adaptation, AI identifies thresholds of green–blue infrastructure, supports urban form regulation, and expands climate-adaptive design through generative AI. In scenario simulation and decision support, AI-powered digital twins and interactive platforms integrate planning and operations, fostering expert–public collaboration. Yet applications remain constrained by trade-offs between accuracy and efficiency, limited data integration, and insufficient causal inference, particularly in modeling the heat risk chain as a multi-stage system. Future work should build data frameworks integrating physical and social information and advance paradigm shifts toward causal inference and multi-objective optimization. A systematic AI framework can enable closed-loop governance from risk identification to intelligent response.
+ER  - 

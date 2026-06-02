@@ -1,0 +1,19 @@
+TY  - JOUR
+T1  - Energy solutions for data center: Comparative analysis of levelized cost of electricity (LCOE) and recent developments
+AU  - Uranbold, Tsedensodnom
+AU  - Lima, Luana Marangon
+JO  - Energy Reports
+VL  - 14
+SP  - 3529
+EP  - 3535
+PY  - 2025
+DA  - 2025/12/01/
+SN  - 2352-4847
+DO  - https://doi.org/10.1016/j.egyr.2025.10.012
+UR  - https://www.sciencedirect.com/science/article/pii/S2352484725005803
+KW  - Data centers
+KW  - Levelized cost of electricity (LCOE)
+KW  - Renewable energy
+KW  - Energy policy
+AB  - The rapid growth of artificial intelligence (AI) and cloud computing has dramatically increased global data center energy consumption, challenging existing low-carbon infrastructure development. This study addresses a crucial gap by comparing the Levelized Cost of Electricity (LCOE) for wind, solar, solar plus battery storage, nuclear, and natural gas technologies tailored explicitly for meeting Meta’s data center energy demands through 2030. Our custom model incorporates detailed capital and operational costs, capacity factors, site-specific data, and sensitivity analyses of key variables. Results indicate solar plus battery storage as the lowest-cost option ($25.11/MWh), albeit sensitive to CAPEX and capacity factors. Findings guide policymakers, tech firms, and energy planners toward economically viable and environmentally sustainable energy solutions.
+ER  - 

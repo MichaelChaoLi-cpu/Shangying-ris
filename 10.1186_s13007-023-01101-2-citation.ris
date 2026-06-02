@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Baykalov, Pavel
+AU  - Bussmann, Bart
+AU  - Nair, Richard
+AU  - Smith, Abraham George
+AU  - Bodner, Gernot
+AU  - Hadar, Ofer
+AU  - Lazarovitch, Naftali
+AU  - Rewald, Boris
+PY  - 2023
+DA  - 2023/11/06
+TI  - Semantic segmentation of plant roots from RGB (mini-) rhizotron images—generalisation potential and false positives of established methods and advanced deep-learning models
+JO  - Plant Methods
+SP  - 122
+VL  - 19
+IS  - 1
+AB  - Manual analysis of (mini-)rhizotron (MR) images is tedious. Several methods have been proposed for semantic root segmentation based on homogeneous, single-source MR datasets. Recent advances in deep learning (DL) have enabled automated feature extraction, but comparisons of segmentation accuracy, false positives and transferability are virtually lacking. Here we compare six state-of-the-art methods and propose two improved DL models for semantic root segmentation using a large MR dataset with and without augmented data. We determine the performance of the methods on a homogeneous maize dataset, and a mixed dataset of > 8 species (mixtures), 6 soil types and 4 imaging systems. The generalisation potential of the derived DL models is determined on a distinct, unseen dataset.
+SN  - 1746-4811
+UR  - https://doi.org/10.1186/s13007-023-01101-2
+DO  - 10.1186/s13007-023-01101-2
+ID  - Baykalov2023
+ER  - 

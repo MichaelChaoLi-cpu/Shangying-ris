@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Smith, Abraham George
+AU  - Lamprinidis, Sotiris
+AU  - Seethepalli, Anand
+AU  - York, Larry M.
+AU  - Han, Eusun
+AU  - Möhl, Patrick
+AU  - Boulata, Kyriaki
+AU  - Thorup-Kristensen, Kristian
+AU  - Petersen, Jens
+PY  - 2026
+DA  - 2026/04/20
+TI  - A systematic comparison of transformers and ConvNets for root segmentation across nine datasets
+JO  - Plant Methods
+AB  - Root segmentation is a fundamental yet challenging task in image-based plant phenotyping. Accurate segmentation is a prerequisite for extracting root traits relevant to plant physiology, breeding, and agronomy. While U-Net and other convolutional neural network (ConvNet) architectures have been applied to root segmentation, no systematic comparison of multiple Transformer and ConvNet architectures has been conducted across diverse root imaging conditions.
+SN  - 1746-4811
+UR  - https://doi.org/10.1186/s13007-026-01533-6
+DO  - 10.1186/s13007-026-01533-6
+ID  - Smith2026
+ER  - 

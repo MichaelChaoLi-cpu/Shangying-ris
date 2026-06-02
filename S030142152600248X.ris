@@ -1,0 +1,21 @@
+TY  - JOUR
+T1  - Exponential AI growth and the physical limits of renewable energy systems
+AU  - Henni, Mohamed Djafar
+AU  - Mohammed, Kamel Si
+JO  - Energy Policy
+VL  - 215
+SP  - 115314
+PY  - 2026
+DA  - 2026/08/01/
+SN  - 0301-4215
+DO  - https://doi.org/10.1016/j.enpol.2026.115314
+UR  - https://www.sciencedirect.com/science/article/pii/S030142152600248X
+KW  - Artificial intelligence
+KW  - Energy demand
+KW  - Renewable energy
+KW  - Physical limits
+KW  - Sustainability
+KW  - Data centers
+KW  - Energy efficiency
+AB  - Artificial intelligence is undergoing rapid expansion marked by exponential growth in model scale, computational demand, and energy consumption, with AI electricity demand increasing by 25–35% annually. Renewable energy systems are frequently assumed to provide a sustainable foundation for this growth, yet they are governed by physical, material, and infrastructural constraints. This study evaluates the compatibility of these trajectories through a systems-level analysis comparing AI energy demand with renewable energy scalability. Results indicate that while AI training compute has increased by several orders of magnitude since 2012, renewable energy capacity has grown at slower rates of 10–20% per year. Efficiency improvements of 25–35% annually reduce energy per operation but do not prevent total energy consumption from rising due to scale effects. Practical renewable power densities remain limited to 1–10 W/m2, and intermittency combined with storage losses of 10–15% constrains reliable supply for AI workloads requiring over 99.9% uptime. These findings reveal a structural mismatch between exponential AI growth and bounded renewable energy systems, indicating that sustainable AI development requires energy-aware system design (e.g., efficiency-optimized architectures and workload scheduling), demand-side constraints (e.g., limits on model scale and training frequency), and governance mechanisms (e.g., energy-informed standards and infrastructure planning) aligned with physical limits.
+ER  - 

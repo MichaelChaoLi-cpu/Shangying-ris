@@ -1,0 +1,29 @@
+TY  - JOUR
+T1  - Integrating perceived environmental quality with objective greenness: A GEMA study of adults’ emotional well-being in rural settings
+AU  - Chen, Shang-Ti
+AU  - Yi, Li
+AU  - Wang, Sicheng
+AU  - Yang, Chih-Hsiang
+JO  - Journal of Environmental Psychology
+VL  - 109
+SP  - 102887
+PY  - 2026
+DA  - 2026/02/01/
+SN  - 0272-4944
+DO  - https://doi.org/10.1016/j.jenvp.2025.102887
+UR  - https://www.sciencedirect.com/science/article/pii/S0272494425003706
+KW  - Smartphone
+KW  - Global positioning system
+KW  - Real-time environmental sensing
+KW  - Contextual effect
+KW  - Emotional benefits
+KW  - Ecological momentary assessment
+AB  - Background
+Research on the relationship between greenness and emotional well-being has often focused on between-person associations, paying only limited attention to real-time, within-person dynamics. This study addresses this gap by using the geographically explicit ecological momentary assessment (GEMA) methodology to assess the real-time, within-person impact of objective (i.e., normalized difference vegetation index [NDVI]) and subjective (i.e., perceived restorative environments; PRE) measures of environments, alongside outdoor leisure activities, on positive affect (PA) and negative affect (NA) among adults in Taiwan.
+Methods
+Our analytical sample included 160 adults in Taiwan (58.1 % female, aged 18–60, M = 22.09, SD = 5.54), who completed ecological momentary assessment (EMA) surveys measuring their PRE, outdoor leisure activities, PA, and NA 3 times daily for 7 days. As the participants answered the surveys, their smartphones automatically recorded their geolocation data, which were subsequently linked to 30 × 30 m NDVI data to derive a measure of ambient greenness exposure. Multilevel modeling was used to examine the between- and within-person associations of NDVI greenness, PRE, and outdoor leisure activities with affect, adjusting for covariates (i.e., age, sex, educational attainment, marital status, living arrangements, presence of chronic diseases, body mass index, smoking status, and alcohol consumption). The interaction between outdoor leisure and PRE was also tested to predict momentary affect.
+Results
+Participants submitted responses to 2935 EMA prompts (87.4 % response rate). Higher PRE and engagement in outdoor leisure were associated with higher PA and lower NA, whereas higher NDVI was unexpectedly linked to lower PA and higher NA. The PRE × outdoor leisure interaction did not reach statistical significance after accounting for random slopes (b = 0.12, p = .06), but the estimated effect followed the expected direction, suggesting that the inverse association between PRE and NA was somewhat weaker during leisure episodes compared with non-leisure moments.
+Conclusion
+PRE and outdoor leisure activities are associated with higher momentary PA and lower NA, but NDVI greenness is not. This suggests fostering individuals’ connections to and enhancing their experiences within green spaces may be important ways to maximize the emotional benefits of green spaces. Overall, our GEMA approach provides valuable insights into real-time associations between greenness exposure and well-being that can be applied to develop targeted environmental-based interventions for mental health promotion.
+ER  - 

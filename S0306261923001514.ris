@@ -1,0 +1,23 @@
+TY  - JOUR
+T1  - Distributionally robust chance-constrained planning for regional integrated electricity–heat systems with data centers considering wind power uncertainty
+AU  - Li, Weiwei
+AU  - Qian, Tong
+AU  - Zhang, Yin
+AU  - Shen, Yueqing
+AU  - Wu, Chenghu
+AU  - Tang, Wenhu
+JO  - Applied Energy
+VL  - 336
+SP  - 120787
+PY  - 2023
+DA  - 2023/04/15/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2023.120787
+UR  - https://www.sciencedirect.com/science/article/pii/S0306261923001514
+KW  - Data center
+KW  - Heat recovery
+KW  - Integrated electricity–heat systems
+KW  - Distributionally robust optimization
+KW  - Wind uncertainty
+AB  - This paper proposed an optimal planning method for regional integrated electricity–heat systems with data centers (DC-RIEHS) considering wind power uncertainty to reduce economic costs and improve system flexibility. First, a novel data center model is developed, where various flexible operating characteristics of the data center are modeled in detail, including thermal inertia of indoor air, rescheduling of delay-tolerant workloads, dynamic voltage frequency scaling technique of servers and heat recovery. The heat recovery system is specially built based on the electric cooling system of the studied data center and heat pump, which connects electric power systems and district heating systems. On this basis, a three-stage distributionally robust chance-constrained (DRCC) planning model of DC-RIEHS is proposed. It is converted into a tractable single-stage mixed-integer conic model by applying affine decision rules to hedge against wind power uncertainty. The proposed planning method determines the optimal capacities of energy equipment and the scheduling decisions of representative days considering wind power uncertainty. Simulation results demonstrate that the flexible resources in a data center can significantly reduce system costs and actively participate in coping with wind power uncertainty. Compared with the chance-constrained optimization method under Gaussian distribution, the proposed DRCC method exhibits better out-of-sample performance in terms of violation probability and system operation results under the wind uncertainty with spatial–temporal correlation.
+ER  - 

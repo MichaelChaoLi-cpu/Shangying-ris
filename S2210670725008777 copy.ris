@@ -1,0 +1,19 @@
+TY  - JOUR
+T1  - A spatial machine learning approach to valuing development and greenness in well-being
+AU  - Li, Chao
+AU  - Managi, Shunsuke
+JO  - Sustainable Cities and Society
+VL  - 135
+SP  - 107007
+PY  - 2025
+DA  - 2025/12/15/
+SN  - 2210-6707
+DO  - https://doi.org/10.1016/j.scs.2025.107007
+UR  - https://www.sciencedirect.com/science/article/pii/S2210670725008777
+KW  - Human well-being
+KW  - NDVI
+KW  - NTL
+KW  - Random forest
+KW  - Geographical connection
+AB  - The positive impact of greenness, represented by normalized difference vegetation index (NDVI), in residential environments on human well-being has been documented and recognized. As a widely used proxy, the nighttime light (NTL) indicates the regional socio-economic status and development level. Higher development levels and economic status, coming with high-level NTL, are related to more opportunities and higher income, but also associated with crowded environments and light pollution. However, the relationships between human well-being and greenness and development level remain inconclusive. Here, we demonstrate the complex nexuses between subjective well-being (SWB) and NDVI and NTL by employing the random forest method. We have optimized the partial dependence analysis and created a novel approach to estimate the local marginal effects of NDVI, NTL, and income. Overall, NDVI is positively associated with SWB, while NTL is negatively linked. Those relationships spatially vary. On average, a one-percentage-point absolute increase in local environment NDVI is associated with a 379.01 USD increase in annual income, while a 1-nW/(cm²·sr) increase in local NTL is equivalent to a 1434.59 USD decline in annual income. These values represent average marginal trade-offs derived from locally non-linear relationships. According to our results, greenness and development improvement should consider the local environments rather than simply formulating one-size-fits-all policies or strategies. To conclude, retaining a moderate development intensity and greening based on the local status are necessary ways to achieve a sustainable society and improve human well-being.
+ER  - 

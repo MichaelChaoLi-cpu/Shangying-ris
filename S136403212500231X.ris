@@ -1,0 +1,21 @@
+TY  - JOUR
+T1  - Opportunities of applying Large Language Models in building energy sector
+AU  - Zhang, Liang
+AU  - Chen, Zhelun
+JO  - Renewable and Sustainable Energy Reviews
+VL  - 214
+SP  - 115558
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 1364-0321
+DO  - https://doi.org/10.1016/j.rser.2025.115558
+UR  - https://www.sciencedirect.com/science/article/pii/S136403212500231X
+KW  - Large language models
+KW  - Building energy efficiency
+KW  - Building decarbonization
+KW  - Knowledge extraction
+KW  - Intelligent control systems
+KW  - Data infrastructure
+KW  - Education and training
+AB  - In recent years, the rapid advancement and impressive capabilities of Large Language Models have been evident across various engineering domains. This paper explores the application, implications, and potential of Large Language Models in building energy sectors, especially energy efficiency and decarbonization studies, based on an extensive literature review and a survey from building engineers and scientists. The paper explores how LLMs can enhance intelligent control systems, automate code generation for software and modeling tools, optimize data infrastructure, and refine analysis of technical reports and papers. Additionally, the paper discusses the role of LLMs in improving regulatory compliance, supporting building lifecycle management, and revolutionizing education and training practices within the sector. Despite the promising potential of Large Language Models, challenges including complex and expensive computation, data privacy, security and copyright, complexity in fine-tuned Large Language Models, and self-consistency are discussed. The paper concludes with a call for future research focused on the enhancement of LLMs for domain-specific tasks, multi-modal LLMs, and collaborative research between AI and energy experts.
+ER  - 

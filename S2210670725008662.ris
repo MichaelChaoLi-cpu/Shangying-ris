@@ -1,0 +1,19 @@
+TY  - JOUR
+T1  - Decoding nonlinear dynamics in urban heat vulnerability: A multi-model framework for socio-spatial responses to extreme heat
+AU  - Erdem Okumus, Deniz
+JO  - Sustainable Cities and Society
+VL  - 135
+SP  - 106995
+PY  - 2025
+DA  - 2025/12/15/
+SN  - 2210-6707
+DO  - https://doi.org/10.1016/j.scs.2025.106995
+UR  - https://www.sciencedirect.com/science/article/pii/S2210670725008662
+KW  - Urban heat vulnerability
+KW  - Socio-spatial inequality
+KW  - Heat adaptation planning
+KW  - Generalized additive model
+KW  - Ridge regression model
+KW  - Sobol sensitivity
+AB  - As global temperatures rise, heat extremes have become a pressing environmental and public health concern, particularly in megacities. This study presents a comprehensive socio-spatial assessment of urban heat vulnerability (UHV) in Istanbul, where heterogeneous urban morphology, socio-economic disparities, and climate-induced stressors intersect. It introduces a novel multi-model UHV index (UHVI) framework that addresses critical methodological gaps in existing approaches—specifically, the reliance on dimensionality reduction, linear assumptions, and lack of validation. The framework integrates machine learning-based weighting through Ridge Regression (RRM), nonlinearity diagnostics via Generalized Additive Models (GAM), and robustness testing using Sobol Sensitivity Analysis (SSA). An eight-stage methodological workflow was employed at neighbourhood level: (1) variable selection, (2) exposure-sensitivity-adaptability assessments, (3) data preprocessing, (4) unweighted UHVI calculation, (5) RRM-based weighting, (6) weighted UHVI computation, (7) nonlinearity detection, and (8) sensitivity analysis. Socio-spatial variables explained 93 % of the variance in UHV across Istanbul. Results showed that 87 % of neighbourhoods experienced extreme temperatures above city average. Nearly half were categorised as high/extremely high vulnerability zones. RRM identified surface temperature, population density, and building compactness as dominant drivers, while green areas and cooling infrastructure (POIcf) exerted significant mitigating effects. GAM detected weak but interpretable nonlinearities: socio-economic status and child population showed diminishing marginal sensitivity, and POIcf displayed negative effect with diminishing returns. SSA validated cross-model consistency, with context-specific interactions. This study establishes a robust, interpretable, and transferable approach for neighbourhood-scale heat adaptation planning. The proposed UHVI framework provides a policy-relevant analytical pathway for managing thermal risks in Istanbul and similar urban contexts.
+ER  - 

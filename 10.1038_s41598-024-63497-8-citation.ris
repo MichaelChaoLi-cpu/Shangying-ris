@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Sordo, Zineb
+AU  - Andeer, Peter
+AU  - Sethian, James
+AU  - Northen, Trent
+AU  - Ushizima, Daniela
+PY  - 2024
+DA  - 2024/06/05
+TI  - RhizoNet segments plant roots to assess biomass and growth for enabling self-driving labs
+JO  - Scientific Reports
+SP  - 12907
+VL  - 14
+IS  - 1
+AB  - Flatbed scanners are commonly used for root analysis, but typical manual segmentation methods are time-consuming and prone to errors, especially in large-scale, multi-plant studies. Furthermore, the complex nature of root structures combined with noisy backgrounds in images complicates automated analysis. Addressing these challenges, this article introduces RhizoNet, a deep learning-based workflow to semantically segment plant root scans. Utilizing a sophisticated Residual U-Net architecture, RhizoNet enhances prediction accuracy and employs a convex hull operation for delineation of the primary root component. Its main objective is to accurately segment root biomass and monitor its growth over time. RhizoNet processes color scans of plants grown in a hydroponic system known as EcoFAB, subjected to specific nutritional treatments. The root detection model using RhizoNet demonstrates strong generalization in the validation tests of all experiments despite variable treatments. The main contributions are the standardization of root segmentation and phenotyping, systematic and accelerated analysis of thousands of images, significantly aiding in the precise assessment of root growth dynamics under varying plant conditions, and offering a path toward self-driving labs.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-63497-8
+DO  - 10.1038/s41598-024-63497-8
+ID  - Sordo2024
+ER  - 

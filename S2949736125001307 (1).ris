@@ -1,0 +1,21 @@
+TY  - JOUR
+T1  - ESG emphasis of top companies in East and Southeast Asian countries unveiled by deep learning
+AU  - Li, Chao
+AU  - Keeley, Alexander Ryota
+AU  - Managi, Shunsuke
+JO  - Green Technologies and Sustainability
+VL  - 4
+IS  - 2
+SP  - 100296
+PY  - 2026
+DA  - 2026/04/01/
+SN  - 2949-7361
+DO  - https://doi.org/10.1016/j.grets.2025.100296
+UR  - https://www.sciencedirect.com/science/article/pii/S2949736125001307
+KW  - ESG
+KW  - Corporate report
+KW  - Pre-trained transformer
+KW  - Deep learning
+KW  - East and Southeast Asia
+AB  - Environmental, social, and governance (ESG) considerations are becoming increasingly vital in evaluating corporate performance and addressing global challenges. This study examines the ESG emphasis of leading companies in eight East and Southeast Asian countries through the analysis of 480 corporate reports published in 2024. By employing the Text Match Pre-trained Transformer (TMPT) model, which features advanced zero-shot learning capabilities with 519,939,541 parameters for multi-language analyses, we investigate the relatedness of report contents to 13 ESG-related topics across environmental, social, and economic dimensions. This zero-shot framework enables accurate and language-independent ESG analysis without the need for task-specific fine-tuning, allowing consistent comparison across countries. Our findings reveal that economic topics, including governance risk, production cost, and economic ripple effect, dominate corporate emphasis, while significant regional variations exist. Specifically, South Korean companies prioritize environmental and social issues, whereas Chinese firms focus more heavily on economic aspects. Japanese corporations demonstrate a balanced pattern, emphasizing work environment and domestic job creation, while companies in Indonesia, Malaysia, and the Philippines emphasize community-related topics and human rights. This research highlights the capabilities of AI-driven models in investigating specific patterns in corporate ESG emphasis across multilingual datasets. By providing a detailed understanding of regional ESG priorities and tendencies, this study demonstrates emphasis variations among countries, sectors, and topics to support societal efforts towards accountability and sustainable development.
+ER  - 

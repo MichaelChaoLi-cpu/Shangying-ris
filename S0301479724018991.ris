@@ -1,0 +1,18 @@
+TY  - JOUR
+T1  - The impact of ESG performance on corporate sustainable growth from the perspective of carbon sentiment
+AU  - Xie, Yamin
+JO  - Journal of Environmental Management
+VL  - 367
+SP  - 121913
+PY  - 2024
+DA  - 2024/09/01/
+SN  - 0301-4797
+DO  - https://doi.org/10.1016/j.jenvman.2024.121913
+UR  - https://www.sciencedirect.com/science/article/pii/S0301479724018991
+KW  - Carbon sentiment
+KW  - ESG performance
+KW  - Natural language processing
+KW  - Sustainable growth
+KW  - Green economy
+AB  - With the increasing importance of environmental and economic sustainability concerns, the concept of Environmental, Social, and Governance (ESG) has gained significant attention. In the era of digitalization, a research approach called carbon sentiment analysis has emerged as an innovative method. This study aims to explore the connections between carbon sentiment, ESG, and corporate sustainable growth within the context of the green economy. By using Ordinary Least Squares (OLS) regression analysis and establishing a panel data model of ESG performance and sustainable growth for Chinese listed companies, a notable positive correlation between the two variables was observed. Endogeneity was addressed using the two-stage instrumental variable method (2SLS) and the dynamic panel Generalized Method of Moments (GMM) model, with the results remaining robust both before and after the COVID-19 pandemic. Carbon-related news and textual information were collected and analyzed using advanced deep learning methods in Natural Language Processing (NLP), specifically Bidirectional Encoder Representations from Transformers (BERT) and Long Short-Term Memory (LSTM) models. This analysis enabled sentiment analysis and identification of the sentiment orientation of carbon news. The obtained sentiment scores were then integrated with company data to establish a moderation effect model. The findings of the study reveal that carbon sentiment significantly and positively moderates ESG performance in relation to corporate sustainable growth. Furthermore, the construction of a mediation effect model showed that carbon sentiment can moderate ESG performance by reducing environmental uncertainty, enhancing social trust, and alleviating financing constraints, thereby influencing corporate sustainable growth. The results of the heterogeneity group regression analysis demonstrate that the impact of ESG performance driven by carbon sentiment on sustainable growth is more pronounced in carbon market pilot regions, non-heavily polluting industries, and labor-intensive industries. This research provides a fresh perspective for understanding the dynamics of ESG, online carbon sentiment, and their implications for corporate sustainable growth. Additionally, it contributes to the development of the green economy and the formulation of environmental management policies.
+ER  - 

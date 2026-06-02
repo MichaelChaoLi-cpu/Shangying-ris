@@ -1,0 +1,19 @@
+TY  - JOUR
+T1  - Impacts of community attachment and community livability on environmental activity according to XGBoost and SHAP
+AU  - Li, Chao
+AU  - Managi, Shunsuke
+JO  - Cities
+VL  - 156
+SP  - 105559
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0264-2751
+DO  - https://doi.org/10.1016/j.cities.2024.105559
+UR  - https://www.sciencedirect.com/science/article/pii/S026427512400773X
+KW  - Community attachment
+KW  - Community livability
+KW  - Environmental activity
+KW  - XGBoost
+KW  - SHAP
+AB  - Community attachment and livability have been identified as critical factors impacting people's willingness to pay for environmental activities. However, the concrete interactions among spending on environmental activities, income, community attachment, and livability remain inconclusive. Herein, we demonstrate their complex associations by employing an extreme gradient boost model, the SHapley Additive exPlanation (SHAP) method, and linear connections between variable contributions and their real values through a global dataset containing 100,956 observations. We linearly link SHAP values and real values to generalize the relationships and estimate the impacts of community attachment and community livability on the connections. Our findings suggest that individuals with strong community attachment and high incomes are most likely to allocate additional funds for environmental activities and that high community attachment strengthens the relationship between income and spending on environmental activity. A 1 % improvement in community attachment has the same effect on environmental activity willingness as a 6.683 thousand USD/year increase in household income. Conversely, residents in more livable environments tend to spend less on such activities, and greater community livability weakens the effects of income. A 1 % increase in livability is equivalent to a decrease of 1.462 thousand USD/year in household income. Our research underscores potential strategies to encourage participation in environmental activities and build a sustainable society, including improving community attachment and expanding people's horizons regarding environmental issues.
+ER  - 

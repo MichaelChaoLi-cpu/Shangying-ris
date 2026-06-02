@@ -1,0 +1,24 @@
+TY  - JOUR
+T1  - Heterogeneous associations between early-life religious upbringing and late-life health: Evidence from a machine learning approach
+AU  - Zong, Xu
+AU  - Meng, Xiangjiao
+AU  - Silventoinen, Karri
+AU  - Nelimarkka, Matti
+AU  - Martikainen, Pekka
+JO  - Social Science & Medicine
+VL  - 380
+SP  - 118210
+PY  - 2025
+DA  - 2025/09/01/
+SN  - 0277-9536
+DO  - https://doi.org/10.1016/j.socscimed.2025.118210
+UR  - https://www.sciencedirect.com/science/article/pii/S0277953625005404
+KW  - Religiousness
+KW  - Health aging
+KW  - Health inequality
+KW  - Childhood circumstances
+KW  - Self-rated health
+KW  - SHARE
+KW  - Causal forest
+AB  - Religious upbringing was common in Europe during the childhood of older adults today. However, studies are still lacking on how early-life religious upbringing is associated with adult health and how this association differs in different population segments. We used cross-national data of 10,346 adults aged 50 or older in Europe. The causal forest approach was applied to capture the complex nonlinear relationships in the data and estimate the average treatment effect (ATE) of early-life religious upbringing on late-life self-rated health and the heterogeneity of this effect across subgroups (early-life circumstances, late-life demographics, and late-life religious involvement) by estimating conditional average treatment effects (CATEs). The results demonstrated that allowing for 19 covariates, early-life religious upbringing was associated with poorer late-life self-rated health with an ATE of −0.10 [95 % confidence interval −0.11, −0.09]. However, the associations varied across different domains of health: religious upbringing was linked to poorer mental health (higher depression levels) and poorer cognitive health (lower numeracy ability) but was associated with better physical health (fewer ADL limitations). CATEs further assess the heterogeneous associations among different subgroups, providing modest evidence that early-life religious upbringing was associated with poorer late-life self-rated health especially among older individuals (65+ years), females, those with low education level, those who were not married or partnered, those who prayed, those who never attended a religious organization, and those with adverse childhood family circumstances. Our results suggest that the association between early-life religious upbringing and late-life health may be modified by both childhood and adulthood social conditions.
+ER  - 

@@ -1,0 +1,22 @@
+TY  - JOUR
+T1  - Assessing anti-insurgency and religious violence mitigation policies using interval-valued Fermatean fuzzy hybrid group decision-making
+AU  - Mahajan, Rajdip
+AU  - Baidya, Abhijit
+AU  - Majumder, Pinki
+AU  - Bera, Uttam Kumar
+JO  - Socio-Economic Planning Sciences
+VL  - 105
+SP  - 102465
+PY  - 2026
+DA  - 2026/06/01/
+SN  - 0038-0121
+DO  - https://doi.org/10.1016/j.seps.2026.102465
+UR  - https://www.sciencedirect.com/science/article/pii/S0038012126000522
+KW  - Religious violence
+KW  - Insurgency
+KW  - Interval-valued Fermatean fuzzy set
+KW  - Exponential aggregation operator
+KW  - Multi-criteria group decision making
+KW  - MARCOS method
+AB  - Religious violence and insurgency frequently coexist, intensifying social, political, and economic instability, especially in developing nations. To address these challenges in the North-East states of India, this study introduces a novel multi-criteria group decision making (MCGDM) framework employing interval-valued Fermatean fuzzy sets (IVFFSs) to better handle the uncertainties in real-world situations. A panel of four decision-makers and five policy alternatives against fifteen criteria have been considered to prioritize strategies for mitigating religious violence and insurgency, fostering peace and socio-economic development. To aggregate IVFF information, exponential aggregation operators (AOs) alongside an innovative score function with desirable properties are developed, addressing the limitations of existing ones. The framework integrates the Measurement of Alternatives and Ranking according to Compromise Solution (MARCOS) method with Stepwise Weight Assessment Ratio Analysis (SWARA), Weighted Aggregated Sum Product Assessment (WASPAS), and the Method based on the Removal Effects of Criteria (MEREC) methods within an IVFF environment. The SWARA method captures expert judgments, while the WASPAS and MEREC methods provide novel subjective and objective weights for evaluation criteria, effectively minimizing expert biases. The MARCOS method then ranks policy alternatives to identify the most effective strategies to reduce religious violence and insurgency. Sensitivity and comparative analyses validate the stability and efficiency of the proposed framework. In addition, the computational complexity of the suggested framework has been examined and compared with other existing approaches. The evaluation results highlight that the “Sharing agreement and cooperation” and the “Social services enhancement” policies demonstrate the highest utility degrees, 0.07676 and 0.07480 respectively, for mitigating religious violence and insurgency while promoting socio-economic development. The applicability of the proposed approach is further validated by solving an additional MCDM problem concerning the selection of the urban climate change policy for transportation activities. The research findings offer management insights for socio-economic planners and administrators.
+ER  - 

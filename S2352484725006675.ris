@@ -1,0 +1,23 @@
+TY  - JOUR
+T1  - Electricity-computility integration of data centers and pumped storage driven by cold energy storage in China
+AU  - Wang, Yujie
+AU  - Liu, Siyuan
+AU  - Liu, Shiyu
+AU  - Liu, Le
+JO  - Energy Reports
+VL  - 14
+SP  - 4068
+EP  - 4085
+PY  - 2025
+DA  - 2025/12/01/
+SN  - 2352-4847
+DO  - https://doi.org/10.1016/j.egyr.2025.11.048
+UR  - https://www.sciencedirect.com/science/article/pii/S2352484725006675
+KW  - Data center
+KW  - Pumped storage
+KW  - Electricity-computility integration
+KW  - Renewable energy
+KW  - Thermal management
+KW  - Cold energy storage
+AB  - The explosive growth of artificial intelligence applications has driven a rapid expansion of hyperscale data centers, leading to a dramatic increase in electricity demand. This surge consumes vast fossil energy, resulting in significant carbon emissions. In contrast, advanced cooling systems required to maintain safe operating temperatures consume substantial water, compounding the environmental impact. This review surveys recent advances in data centers’ energy consumption modeling, forecasting methodologies, and cooling system innovations, before examining renewable power developments, emphasizing wind and solar generation integrated with pumped storage. These developments motivate the proposal of an electricity-computility integration framework that tightly couples data center operations with the power system. The hybrid power generation system delivers renewable electricity to data centers by combining wind and solar with pumped storage. Moreover, the cold energy storage system leverages low-temperature water from the pumped storage reservoir to cool the data center, and the resulting waste heat is repurposed for greenhouse heating. To strengthen feasibility, a quantitative economic dispatch model is developed, and case studies are conducted, confirming that the integration reduces operating costs, mitigates power shortages, and enhances renewable utilization. The mechanism bridges the gap between internal thermal management and external power infrastructure, transforming data centers into demand-responsive nodes within regional energy networks. The proposed blueprint offers a rigorous and practical pathway for the sustainable evolution of next-generation data centers in China and beyond.
+ER  - 

@@ -1,0 +1,27 @@
+TY  - JOUR
+T1  - Pixel level segmentation of early-stage in-bag rice root for its architecture analysis
+AU  - Gong, Liang
+AU  - Du, Xiaofeng
+AU  - Zhu, Kai
+AU  - Lin, Chenghui
+AU  - Lin, Ke
+AU  - Wang, Tao
+AU  - Lou, Qiaojun
+AU  - Yuan, Zheng
+AU  - Huang, Guoqiang
+AU  - Liu, Chengliang
+JO  - Computers and Electronics in Agriculture
+VL  - 186
+SP  - 106197
+PY  - 2021
+DA  - 2021/07/01/
+SN  - 0168-1699
+DO  - https://doi.org/10.1016/j.compag.2021.106197
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169921002143
+KW  - Plant root
+KW  - Image processing
+KW  - Image segmentation
+KW  - Deep-learning
+KW  - Convolutional neural network
+AB  - The root architecture parameters are important to the study of plant growth state and the segmentation of plant roots is the key to the measurement of these parameters. Most existing methods use the threshold calculated by different algorithms to segment the roots in a grayscale image, which requires a low noise background. We designed a set of automatic equipment to record the roots images of rice seedlings planted in transparent bags. Those root images contain strong noise and it makes existing methods invalid in our circumstances. To solve the segmentation problem of rice roots under strong noise, we proposed a convolutional neural network based on U-Net and SE-ResNet. The root images were preprocessed and cropped into small patches to fit CNN input requirements. Experiments have shown that our method performs effectively in pixel-level segmentation of rice seedling roots that contain tiny lateral roots. Our method achieves an intersection over union (IoU) of 87.4%. This method provides a new approach to automatic and fast pixel-level root segmentation, which is of great importance for the analysis of root morphology.
+ER  - 

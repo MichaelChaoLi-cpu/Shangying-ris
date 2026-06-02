@@ -1,0 +1,35 @@
+TY  - JOUR
+T1  - Impact of rapid temperature fluctuations on acute stroke risk: a nationwide case-crossover study from 2001 to 2020
+AU  - Kono, Miku
+AU  - Wu, Wei-Te
+AU  - Lee, Chuan-Pin
+AU  - Chang, Yu-Yin
+AU  - Yang, Yao-Hsu
+AU  - Lin, Ching-Chun
+AU  - Chen, Pau-Chung
+JO  - The Lancet Regional Health - Western Pacific
+VL  - 57
+SP  - 101546
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 2666-6065
+DO  - https://doi.org/10.1016/j.lanwpc.2025.101546
+UR  - https://www.sciencedirect.com/science/article/pii/S2666606525000835
+KW  - Climate change
+KW  - Day-to-day temperature change
+KW  - Stroke
+KW  - Hemorrhagic stroke
+KW  - Ischemic stroke
+KW  - Case-crossover study
+AB  - Summary
+Background
+Climate factors greatly affect cardiovascular health, with stroke ranking among serious global concerns. However, the impact of rapid temperature fluctuations on stroke risk remains underexplored. Given Taiwan's aging population and the intensifying effects of climate change, understanding influence of ambient temperatures on stroke risk is crucial for public health protection. This study aimed to explore the link between ambient temperature, sudden day-to-day temperature changes, and stroke onset in Taiwan, taking air pollutants into consideration.
+Methods
+We conducted a time-stratified case-crossover study from 2001 to 2020 using Distributed Lag Nonlinear Models (DLNM) within conditional logistic regression to examine lagged associations between temperature parameters and stroke risk. We analyzed associations separately for total stroke, ischemic stroke, and hemorrhagic stroke to identify potential differences in risk patterns, using odds ratios (ORs) relative to the temperature associated with the lowest stroke risk. Data from the National Health Insurance Research Database (NHIRD) identified the study population, including 1,100,074 first-time stroke emergency events and self-matched with 2,200,148 non-stroke onset dates as controls. The primary exposure assessments included daily temperatures (mean, maximum, and minimum) and temperature fluctuations (diurnal temperature range (DTR), sudden day-to-day temperature increases (TDI), and sudden day-to-day temperature decrease (TDD)), adjusted for air pollutants (PM2.5, O3, SO2, and NO2), and rainfall. Lag periods up to 13 days prior to the corresponding event or control days were used to examine the lag effect of stroke risk.
+Findings
+Through DLNM exposure-lag-response effect analysis after adjustment for PM2.5, O3, SO2, NO2, and rainfall, the study revealed that when TDI exceeded 6 °C, the risk of ischemic stroke more than doubled compared to the lowest risk temperature (OR: 2.173, 95% CI: 1.887, 2.501). The risk continued to rise until 9 °C, with a second peak observed when TDI exceeded 16 °C (OR: 2.096, 95% CI: 1.733, 2.535). Conversely, TDD exceeding 14 °C was linked to heightened hemorrhagic stroke risk (OR: 2.187, 95% CI: 2.055, 2.326). Additionally, daily maximum temperature exceeding 35 °C was associated with an increased stroke risk, primarily affecting ischemic stroke, while daily minimum temperature below 16 °C was strongly associated with a doubled risk of hemorrhagic stroke.
+Interpretation
+Our findings indicate that sudden day-to-day temperature increases and decreases are significant predictors of stroke onset. These results emphasize a noteworthy relationship between temperature and stroke risk over consecutive days, supporting interventions aimed at reducing stroke incidence.
+Funding
+This research was supported by the National Science and Technology Council (NSTC), Executive Yuan, Taiwan, grant No. NSTC-111-2119-M-865-002.
+ER  - 

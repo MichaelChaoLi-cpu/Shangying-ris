@@ -1,0 +1,20 @@
+TY  - JOUR
+T1  - Optimal energy portfolio investment strategies for data centers under deep market uncertainty
+AU  - Abdelhady, Mohamed
+AU  - Iakovou, Eleftherios
+AU  - Pistikopoulos, Efstratios N.
+JO  - Applied Energy
+VL  - 410
+SP  - 127510
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2026.127510
+UR  - https://www.sciencedirect.com/science/article/pii/S0306261926001625
+KW  - Data centers
+KW  - Energy investment
+KW  - Electricity price volatility
+KW  - Robust optimization
+KW  - Regret minimization
+AB  - Artificial intelligence is driving soaring electricity demand, with data centers projected to account for 44% of U.S. load growth through 2028. Energy planning for data centers requires robust investment strategies amid volatile electricity prices and grid interconnection delays. This study introduces a regret minimization framework, inspired by decision theory and game theory, to optimize energy portfolios for data centers, with potential relevance to other energy-intensive sectors. Using hindsight benchmarks and historical back-testing, the framework employs deterministic optimization and full cross-validation to evaluate portfolio robustness through regret-based metrics. In a hyperscale data center case study, diversified portfolios combining solar photovoltaic (PV), wind energy, and gas turbines demonstrate lower regret than grid-only strategies and provide resilience to evolving regulatory requirements. Reducing grid reliance from 100% to 20% mitigates cost volatility and interconnection risks. Low-carbon technologies, like nuclear small modular reactors (SMR), become viable with reduced capital costs and limited land availability. This work offers a robust planning framework for optimal strategic investments not only for data centers but also for energy-intensive industries navigating the modern, volatile energy landscape.
+ER  - 

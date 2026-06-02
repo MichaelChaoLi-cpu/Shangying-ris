@@ -1,0 +1,23 @@
+TY  - JOUR
+T1  - Comprehensive evaluation of all-element flexibility resources in data centers: considering synergistic benefits of computing, electricity, and heat
+AU  - Wang, Yongzhen
+AU  - Lin, Jiayu
+AU  - Han, Yibo
+AU  - Han, Kai
+AU  - Han, Juntao
+AU  - Han, Te
+AU  - Wei, Yiming
+JO  - Applied Energy
+VL  - 399
+SP  - 126442
+PY  - 2025
+DA  - 2025/12/01/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2025.126442
+UR  - https://www.sciencedirect.com/science/article/pii/S0306261925011729
+KW  - Data center
+KW  - Flexibility resources
+KW  - Computing-heat coupling
+KW  - Capacity planning and operation scheduling
+AB  - The exploration of internal resource flexibility in data centers is a significant trend for energy conservation, emission reduction, and sustainable development. To systematically quantify the coupling mechanisms and potential of flexibility in the computing, electricity, and heat side, this paper develops a multi-element flexibility resource evaluation method integrated capacity planning and operation scheduling for data centers. It reveals the impact of each flexibility resource on the data center's energy consumption, carbon emissions, economic costs, Power Usage Effectiveness (PUE), computing efficiency, and other integrated performance metrics. An optimization and scheduling framework for all-element flexibility resources is developed based on a collaborative operation model for flexibility resources established in this paper. The results show that the flexibility is able to reduce carbon emissions by 38.5 %, energy consumption by 22.8 %, and economic costs by 21.6 %, while significantly improving PUE and computing efficiency. In particular, the utilization of electricity flexibility notably reduces carbon emissions by 21.5 %, while the coordinated regulation of computing flexibility and heat flexibility has a significant effect on reducing energy consumption (by 11.1 % and 13.1 %, respectively). Furthermore, the impact of factors like time-of-use tariff, workload status, and rack occupancy rate on flexibility resource utilization is analyzed through sensitivity analysis, revealing how these factors influence the optimization of the data center's performance metrics.
+ER  - 

@@ -1,0 +1,19 @@
+TY  - JOUR
+T1  - Climate change and crop production in North Africa: Insights from machine learning models
+AU  - Ben Harraf, Raja
+AU  - Mhada, Manal
+AU  - Moçayd, Nabil El
+JO  - Journal of Environmental Management
+VL  - 398
+SP  - 128451
+PY  - 2026
+DA  - 2026/01/15/
+SN  - 0301-4797
+DO  - https://doi.org/10.1016/j.jenvman.2025.128451
+UR  - https://www.sciencedirect.com/science/article/pii/S0301479725044275
+KW  - Climate change
+KW  - Major crops
+KW  - North Africa
+KW  - Future projections
+AB  - Climate change is disrupting crop growth, presenting significant challenges to food security and agricultural planning. Accurately projecting future crop yields is essential for anticipating these challenges and enabling farmers to adopt proactive measures. This study evaluates the impact of temperature and precipitation variations on major crops in North Africa, including Morocco, Algeria, Tunisia, Libya, and Egypt. A detailed seasonal analysis was conducted to examine the relationship between climatic conditions, derived from ERA5 reanalysis data, and FAO crop yield data. To capture the non-linear dynamics between climate variables and crop yields, several machine learning models were implemented, including Multiple Linear Regression (MLR), Random Forest (RF), and eXtreme Gradient Boosting (XGBoost). The best-performing model was selected to generate future yield projections. Future climate projections, based on the SSP2-4.5 and SSP5-8.5 scenarios from the CMIP6 dataset, were used as inputs to simulate crop yields over three time horizons: near-term (2015–2050), mid-term (2051–2080), and long-term (2081–2100), compared to the historical baseline (1981–2014). The results reveal an overall increase in temperature and a decline in precipitation, leading to projected yield reductions for several crops. However, some crops — such as maize and sorghum — appear more resilient, particularly under irrigated conditions. The findings contribute to a better understanding of climate–yield interactions in semi-arid regions and demonstrate the value of data-driven models for long-term agricultural planning. The results also identify the most vulnerable crop species to climate change and highlight more resilient alternatives. These insights can support policymakers, researchers, and agricultural stakeholders in identifying climate-resilient crops, optimizing land use, and developing region-specific adaptation strategies.
+ER  - 

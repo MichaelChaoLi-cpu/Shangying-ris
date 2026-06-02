@@ -1,0 +1,22 @@
+TY  - JOUR
+T1  - Feasibility study of a combined system of electricity generation and cooling from liquefied natural gas to reduce the electricity cost of data centres
+AU  - Sermsuk, Maytungkorn
+AU  - Sukjai, Yanin
+AU  - Wiboonrat, Montri
+AU  - Kiatkittipong, Kunlanan
+JO  - Energy
+VL  - 254
+SP  - 124397
+PY  - 2022
+DA  - 2022/09/01/
+SN  - 0360-5442
+DO  - https://doi.org/10.1016/j.energy.2022.124397
+UR  - https://www.sciencedirect.com/science/article/pii/S0360544222013007
+KW  - LNG
+KW  - Cold energy utilisation
+KW  - Power generation
+KW  - Data centre
+KW  - Free cooling
+KW  - Energy efficiency
+AB  - Global data centre power demands would expand from 286 TWh in 2016 to around 321 TWh in 2030. The cooling system represents electricity consumption of approximately 40–50% of the total energy used. The global LNG trade has reached 356.1 MTPA. Cold energy equal to 89025 GW is released into the ocean. Therefore, this study focused on the technical and economic feasibility of an LNG receiving terminal combined with a data centre using a direct expansion cycle (DEC), a Rankine cycle (RC) and a combination of Rankine cycle and direct expansion cycle (RC + DEC) under different natural gas distribution pressures to produce a supply of cooling water and electricity to reduce electricity consumption and greenhouse gas emissions. According to the study, the RC + DEC produces the maximum cold water at 7 °C, with the total cold energy of 44.23 MW which is sufficient for cooling a data centre with a capacity of 5345 racks, to reduce the electricity for conventional cooling system is 13521 kWh and generated electricity form turbine is 9968 kWh. This research has the potential to reduce the operating costs of data centres by more than USD 23.87 million per annum as well as CO2 emissions by 83859 t per annum with exergy efficiency of 78.94%. In an economic study, indicated a payback period of 1.60 years with an IRR of 62%.
+ER  - 

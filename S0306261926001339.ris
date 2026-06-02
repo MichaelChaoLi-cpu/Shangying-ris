@@ -1,0 +1,24 @@
+TY  - JOUR
+T1  - Integrating contextual knowledge into volt/Var control of distribution networks: a large language model-driven fuzzy inference and model predictive control approach
+AU  - Lin, Jiafeng
+AU  - Qiu, Jing
+AU  - An, Sihai
+AU  - Yao, Zongyu
+AU  - Tian, Weiyi
+AU  - Lu, Xin
+JO  - Applied Energy
+VL  - 409
+SP  - 127481
+PY  - 2026
+DA  - 2026/04/15/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2026.127481
+UR  - https://www.sciencedirect.com/science/article/pii/S0306261926001339
+KW  - Volt/Var control
+KW  - Voltage regulation
+KW  - Fuzzy inference system
+KW  - Distribution networks
+KW  - Model predictive control
+KW  - Large language model
+AB  - The rapid integration of distributed energy resources (DERs) and electric vehicles (EVs) into active distribution networks (ADNs) poses significant challenges for conventional Volt/Var control (VVC). Existing research predominantly optimizes the dispatch of on-load tap changers (OLTCs), capacitor banks (CBs), and inverter-based devices, but typically assume their locations are predetermined and overlook contextual signals from planning and policy environments. In this paper, we propose a novel VVC framework using large language model (LLM) with a fuzzy inference system (FIS) to address device siting under real-world contextual conditions. An LLM-driven fuzzy knowledge extraction agent is developed to filter and extract unstructured sources, including regulatory plans, infrastructure reports, and news into structured indicators and linguistically interpretable fuzzy rules. These rules capture how drivers such as load growth, reinforcement plans, solar potential, and policy incentives influence site suitability. An FIS then combines contextual indicators with grid measurements to quantitatively derive suitability scores for siting voltage regulation devices. This approach enables the identification of candidate location set for VVC devices, ensuring that they are not only scheduled optimally but also sited where they are most effective under practical system conditions. To coordinate device scheduling, a time horizon-based model predictive control (MPC) formulation integrates slow time scale centralized optimization with inverter-based fast timescale responses. Comparative case studies against benchmark methods demonstrate that incorporating site suitability into the VVC design improves voltage stability, reduces mechanical switching and network losses. These findings highlight the practicality and scalability of the LLM-FIS-based VVC framework for future active distribution systems.
+ER  - 

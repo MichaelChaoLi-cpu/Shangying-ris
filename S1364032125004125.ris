@@ -1,0 +1,19 @@
+TY  - JOUR
+T1  - Harnessing public sentiment: A literature review of sentiment analysis in energy research
+AU  - Ren, Jeana T.
+JO  - Renewable and Sustainable Energy Reviews
+VL  - 219
+SP  - 115739
+PY  - 2025
+DA  - 2025/09/01/
+SN  - 1364-0321
+DO  - https://doi.org/10.1016/j.rser.2025.115739
+UR  - https://www.sciencedirect.com/science/article/pii/S1364032125004125
+KW  - Sentiment analysis
+KW  - Energy transition
+KW  - Public opinion
+KW  - Machine learning
+KW  - Energy policy
+KW  - Data collection
+AB  - Public opinion is of great importance for the successful implementation of energy projects. Traditional methods for gauging this sentiment, however, are limited in scalability and reproducibility over time. This paper reviews the application of sentiment analysis in energy research, highlighting its potential to overcome these limitations by providing large-scale, quantifiable data across diverse energy technologies and geographies. By showcasing integrations of sentiment analysis with topic modeling, this review showcases approaches that enhance the understanding of public opinions and support more informed policy-making. This paper finds that researchers have leveraged a wide range of data sources, including social media, news reports, research papers, and transcripts of interviews and speeches, but have often relied on suboptimal models to perform the sentiment classification. In line with existing literature, our quantitative model comparison indicates that transformer-based and large language model approaches can improve classification accuracy by up to 20% compared to traditional lexicon-based methods. In particular, this study is the first to compare GPT model performance in an energy context. To support future research, this review provides practical guidance on model selection in sentiment analysis, lowering the technical barrier to adoption. By encouraging broader use of sentiment analysis, this work aims to improve public response forecasting, facilitating the development of more effective energy policies and advancing energy technologies.
+ER  - 

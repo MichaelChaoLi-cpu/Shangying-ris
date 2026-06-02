@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Teramoto, Shota
+AU  - Uga, Yusaku
+PY  - 2024
+DA  - 2024/05/21
+TI  - Convolutional neural networks combined with conventional filtering to semantically segment plant roots in rapidly scanned X-ray computed tomography volumes with high noise levels
+JO  - Plant Methods
+SP  - 73
+VL  - 20
+IS  - 1
+AB  - X-ray computed tomography (CT) is a powerful tool for measuring plant root growth in soil. However, a rapid scan with larger pots, which is required for throughput-prioritized crop breeding, results in high noise levels, low resolution, and blurred root segments in the CT volumes. Moreover, while plant root segmentation is essential for root quantification, detailed conditional studies on segmenting noisy root segments are scarce. The present study aimed to investigate the effects of scanning time and deep learning-based restoration of image quality on semantic segmentation of blurry rice (Oryza sativa) root segments in CT volumes.
+SN  - 1746-4811
+UR  - https://doi.org/10.1186/s13007-024-01208-0
+DO  - 10.1186/s13007-024-01208-0
+ID  - Teramoto2024
+ER  - 

@@ -1,0 +1,25 @@
+TY  - JOUR
+T1  - A multi-class deep learning segmentation approach for automated analysis of axial and lateral roots in barley plants
+AU  - Narisetti, Narendra
+AU  - Neumann, Kerstin
+AU  - Altmann, Thomas
+AU  - Stolzenburg, Frieder
+AU  - von Wirén, Nicolaus
+AU  - Giehl, Ricardo Fabiano
+AU  - Gladilin, Evgeny
+JO  - Computers and Electronics in Agriculture
+VL  - 240
+SP  - 111157
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 0168-1699
+DO  - https://doi.org/10.1016/j.compag.2025.111157
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169925012633
+KW  - Root System Architecture (RSA)
+KW  - Convolutional Neural Networks (CNN)
+KW  - Image segmentation
+KW  - Barley roots
+KW  - Axial and lateral roots
+KW  - Root traits analysis
+AB  - Accurate segmentation and analysis of root images from soil-grown plants are critical for advancing our understanding of root growth and plasticity under varying environmental conditions. Most approaches typically rely on binary segmentation of the entire root system architecture (RSA), which limits their ability to capture the hierarchical complexity of root structures, including axial and lateral roots. To address this, our study evaluated five convolutional neural network (CNN) architectures for multi-class (i.e. axial/lateral) segmentation of 2D root images from barley plants grown in rhizoboxes: (i) U-Net, (ii) U-Net with Atrous Spatial Pyramid Pooling (UnetASPP), (iii) U-Net with Attention Block (UnetAtt), (iv) DeepLabV3+ with MobileNetV2 (DLMB), and (v) DeepLabV3+ with ResNet-50 (DLR50). Among these, the DLR50 model achieved the highest segmentation accuracy, particularly for distinguishing lateral roots within complex RSA structures. Furthermore, analysis of root traits derived from the segmented images confirmed that DLR50 produced the most reliable estimations of phenotypic traits compared to ground truth measurements. These findings highlight the strong potential of advanced multi-class CNN models—especially DLR50—for detailed and quantitative analysis of soil-root systems, providing new insights into root responses to environmental conditions.
+ER  - 

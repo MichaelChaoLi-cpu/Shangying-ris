@@ -1,0 +1,25 @@
+TY  - JOUR
+T1  - Integrated planning of wind–solar–storage–grid systems for private-wire supplied data centers
+AU  - Guo, Feng
+AU  - Soares, João
+AU  - Ma, Ling
+AU  - Song, Jie
+AU  - Tian, Zhiyong
+AU  - Chen, Xinyu
+AU  - Vale, Zita
+JO  - Applied Energy
+VL  - 414
+SP  - 127841
+PY  - 2026
+DA  - 2026/07/01/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2026.127841
+UR  - https://www.sciencedirect.com/science/article/pii/S0306261926004939
+KW  - Data centers
+KW  - Private wire
+KW  - Power usage effectiveness
+KW  - Renewable energy
+KW  - Mixed integer linear programming
+KW  - Sustainable development
+AB  - Rapid data center expansion intensifies the tension between deep power-sector decarbonisation and the need for highly reliable, continuous electricity supply. Under grid congestion and limited interconnection capacity, annual renewable claims cannot guarantee hour-by-hour deliverable clean power. We develop an integrated planning framework for private-wire-supplied data centers. This framework determines the optimal within-city siting of the data center hub and its matched wind, solar photovoltaic, and battery resources, subject to point-of-common-coupling exchange limits and dedicated-line deliverability constraints. Candidate renewable sites are identified through spatial screening; hourly generation is simulated using ERA5 reanalysis; and an 8760-h load profile is reconstructed for a standardised 25,000-rack campus using a climate-driven power usage effectiveness model. A mixed-integer linear programming model then co-optimises siting, capacities, line sizing, and grid transactions under renewable supply targets of 30%, 50%, 70%, and 95%. Using Qinghai, China, as an illustrative case, we find that hub siting depends mainly on interconnection access and coupling conditions, whereas renewable siting increasingly concentrates in the strongest resource corridors as the target tightens. Solar photovoltaics form the main scalable backbone, while wind is used selectively only in the most advantageous zones. Across candidate-city cases, total annual cost rises from 1.76 to 1.96 billion USD at 30% to 8.56–9.56 billion USD at 95%. Annual displacement of grid electricity purchases increases from about 0.76 TWh to 2.17–2.26 TWh per city, and implied emissions reductions rise from about 0.14 to 0.39–0.41 Mt. CO₂ per city. The key finding is that, at high clean-electricity shares, the main constraint is not annual renewable availability but hour-by-hour deliverability within the project boundary.
+ER  - 

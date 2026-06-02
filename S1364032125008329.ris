@@ -1,0 +1,19 @@
+TY  - JOUR
+T1  - A systematic review of electricity demand for large language models: evaluations, challenges, and solutions
+AU  - Ji, Zhenya
+AU  - Jiang, Ming
+JO  - Renewable and Sustainable Energy Reviews
+VL  - 225
+SP  - 116159
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 1364-0321
+DO  - https://doi.org/10.1016/j.rser.2025.116159
+UR  - https://www.sciencedirect.com/science/article/pii/S1364032125008329
+KW  - Electricity consumption
+KW  - Artificial intelligence
+KW  - Large language model
+KW  - Power grid
+KW  - Energy sustainability
+AB  - Large language models (LLMs) are revolutionizing technology landscapes, transforming production workflows, and deeply embedding themselves into our daily lives. Their unparalleled capabilities, fueled by extensive training on vast datasets and intensive utilizations, underpin this transformation. However, this achievement comes at a significant cost: the immense electricity demand required for their training and inference poses an urgent and critical challenge. As the reliance on LLMs grows, ensuring a reliable and sustainable power supply becomes paramount for their uninterrupted progress and widespread adoption. This comprehensive review paper thoroughly examines the intricacies of LLMs' lifecycle, focusing on both training and inference stages. It critically assesses various parameters and approaches for accurately estimating their electricity consumption and associated carbon emissions, drawing upon representative statistical data spanning diverse LLM products and task types. By delving into the complexities, the paper uncovers the fundamental challenges in forecasting and fulfilling LLMs’ extensive electricity demand, which are intricately linked to controversies within four bottom-up tiers: soft-and-hardware, data center, power grid, and external societal factors. Crucially, this paper offers a suite of tailored solutions for each tier, aimed at not only addressing the immediate electricity demand challenge but also fostering the long-term sustainability of LLMs. The insights outlined herein endeavor to alleviate the power shortage crisis facing LLMs, paving the way for their widespread adoption while minimizing their environmental impact and contributing to a greener future.
+ER  - 

@@ -1,0 +1,32 @@
+
+TY  - JOUR
+T1  - Investor's ESG tendency probed by pre-trained transformers
+AU  - Li, Chao
+AU  - Keeley, Alexander Ryota
+AU  - Takeda, Shutaro
+AU  - Seki, Daikichi
+AU  - Managi, Shunsuke
+Y1  - 2025/03/01
+PY  - 2025
+DA  - 2025/03/01
+DO  - https://doi.org/10.1002/csr.3055
+T2  - Corporate Social Responsibility and Environmental Management
+JF  - Corporate Social Responsibility and Environmental Management
+JO  - Corporate Social Responsibility and Environmental Management
+JA  - Corp Soc Responsib Environ Manag
+SP  - 2051
+EP  - 2071
+VL  - 32
+IS  - 2
+KW  - data mining
+KW  - ESG
+KW  - investor
+KW  - machine learning
+KW  - natural language processing
+KW  - pre-trained transformer
+PB  - John Wiley & Sons, Ltd
+SN  - 1535-3958
+UR  - https://doi.org/10.1002/csr.3055
+Y2  - 2026/04/22
+N2  - Abstract Due to climate change and social issues, environmental, social, and governance (ESG) solutions receive increased attention and emphasis. Being influential market leaders, investors wield significant power to persuade companies to prioritize ESG considerations. However, investors' preferences for specific ESG topics and changing trends in those preferences remain elusive. Here, we build a group of large language models with 128?million parameters, named classification pre-trained transformers (CPTs), to extract the investors' tendencies toward 13 ESG-related topics from their annual reports. Assisted by the CPT models with approximately 95% cross-validation accuracy, more than 3000 annual reports released by globally 350 top investors during 2010?2021 are analyzed. Results indicate that although the investors show the strongest tendency toward the economic aspect in their annual reports, the emphasis is gradually reducing and shifting to environmental and social aspects. Nonfinancial investors like corporation and holding company investors prioritize environmental and social factors, whereas financial investors pay the most attention to governance risk. There are differences in patterns at the country level, for instance, Japan's investors show a greater focus on environmental and social factors than other major countries. Our findings suggest that investors are increasingly valuing sustainability in their decision-making. Different investor businesses may encounter unique ESG challenges, necessitating individualized strategies. Companies should improve their ESG disclosures, which are increasingly focused on environmental and social issues, to meet investor expectations and bolster transparency.
+ER  - 

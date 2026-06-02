@@ -1,0 +1,21 @@
+TY  - JOUR
+T1  - Large Language Models Meet Energy Systems: Opportunities, Challenges, and Future Perspectives
+AU  - Zhang, Chaobo
+AU  - Zhang, Jian
+AU  - Lu, Jie
+AU  - Zhao, Yang
+JO  - Applied Energy
+VL  - 403
+SP  - 127076
+PY  - 2026
+DA  - 2026/01/15/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2025.127076
+UR  - https://www.sciencedirect.com/science/article/pii/S0306261925018069
+KW  - Energy system
+KW  - Smart energy
+KW  - Large language model
+KW  - ChatGPT
+KW  - Artificial intelligence
+AB  - Large language models (LLMs) are sparking a groundbreaking revolution in the intelligent transformation of energy systems. They hold significant potential for applications in energy systems, where they can assist or even replace humans in completing complex tasks. However, the application of LLMs in energy systems is an emerging field, which lacks a comprehensive review. To address this gap, this paper provides a comprehensive review of the applications of LLMs in energy systems over the past seven years. The advantages, disadvantages, and target users of 22 types of LLMs (such as GPT, Llama, and ChatGLM) used in energy systems are summarized. Five performance enhancement technologies for developing domain-specific LLMs are discussed, including prompt engineering, knowledge augmentation, fine-tuning, multimodal integration, and autonomous agent. Thirteen roles of LLMs in energy systems are revealed, such as maintainer, adviser, programmer, and modeler. Based on the literature review, this paper identifies and highlights the opportunities and challenges associated with applying LLMs in energy systems. Furthermore, eight future directions are proposed to address these challenges. This paper offers valuable insights that can guide future research and advance the integration of LLMs in the energy domain.
+ER  - 

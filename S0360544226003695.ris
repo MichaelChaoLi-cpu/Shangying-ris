@@ -1,0 +1,27 @@
+TY  - JOUR
+T1  - Equilibrium-based electricity-computation collaborative scheduling for data centers integrated with seawater pumped storage hydropower
+AU  - Li, Xudong
+AU  - Zhang, Wenyi
+AU  - Ding, Yibo
+AU  - Shi, Wenzhuo
+AU  - Chen, Junyu
+AU  - Liu, Yugui
+AU  - Zhao, Yuhong
+AU  - Tang, Guoxin
+AU  - Xu, Zhao
+JO  - Energy
+VL  - 345
+SP  - 140267
+PY  - 2026
+DA  - 2026/02/15/
+SN  - 0360-5442
+DO  - https://doi.org/10.1016/j.energy.2026.140267
+UR  - https://www.sciencedirect.com/science/article/pii/S0360544226003695
+KW  - Seawater pumped storage hydropower
+KW  - Data center
+KW  - Equilibrium
+KW  - Electricity-computation co-optimization
+KW  - Scheduling
+KW  - Demand response
+AB  - Seawater-cooled coastal data centers (DCs) provide an effective solution to mitigating their high energy consumption, while seawater pumped storage hydropower (SPSH), also deployed in coastal areas, has flexible power regulation capabilities. Their synergy presents promising potential for sustainable and coordinated operation. However, existing studies lack a scheduling framework for such hybrid systems. They often overlook the computational behavior of DCs as system users and focus on SPSH's supply-side optimization, without considering power source–demand coordination. Thus, this work proposes an equilibrium-based electricity–computation collaborative scheduling method that jointly optimizes computational workload and power flows within a hybrid DC-SPSH system. The method models the workload reduction behavior of DCs and constructs an optimization framework based on the equilibrium among computation, electricity, and system marginal cost. It also integrates the hydraulic characteristics of SPSH and the computational workload features of DCs. The problem is further formulated as a fixed-point equilibrium optimization. The existence, stability, and convergence of the solution are theoretically analyzed and verified via simulation, with sufficient conditions for equilibrium stability derived. A case study in Guangdong, China shows that, compared with uncoordinated strategies, the proposed method enables flexible scheduling of deferrable workloads and SPSH power flow, while driving workload reduction by marginal price signals. As a result, the daily operational cost of DC is reduced by 4.05 %. SPSH also benefits from the coordination, with a 0.49 % improvement in efficiency and a 22.5 % enhancement in reservoir slope stability.
+ER  - 

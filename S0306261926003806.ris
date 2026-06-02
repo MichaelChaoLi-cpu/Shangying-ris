@@ -1,0 +1,19 @@
+TY  - JOUR
+T1  - Energy transition and geopolitical risk in clean and fossil energy with multiscale time-varying connectedness and deep learning forecasts
+AU  - Aktaş Bozkurt, Melike
+JO  - Applied Energy
+VL  - 413
+SP  - 127728
+PY  - 2026
+DA  - 2026/06/15/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2026.127728
+UR  - https://www.sciencedirect.com/science/article/pii/S0306261926003806
+KW  - Connectedness
+KW  - Spillovers
+KW  - Wavelets
+KW  - Forecasting
+KW  - Geopolitics
+KW  - Transition-risk
+AB  - Energy transition policies and geopolitical supply disruptions increasingly challenge energy-system affordability, security, and energy-market stability, creating a need for operational, horizon-specific transition-risk monitoring. This paper develops an applied, AI-enabled framework to monitor and forecast multiscale spillovers between clean and fossil energy exchange-traded funds (ETFs) and key energy-macro drivers. This study presents the first integrated and systematic analysis of connectedness dynamics between clean and fossil energy clusters using a unified multiscale connectedness and forecasting framework. Using daily data from 2014 to 2025, we build equal-weighted clean- and fossil-ETF composites and include EU ETS carbon futures, Brent crude, the CBOE Volatility Index, the Oil Volatility Index, the S&P 500, and gold. Synchrosqueezed continuous wavelet transforms provide regime-dependent time–frequency diagnostics and identify dominant cycle lengths that motivate short-, medium-, and long-run horizon bands. We then apply the maximal overlap discrete wavelet transform to decompose returns by horizon and to estimate frequency-specific connectedness using a time-varying parameter vector autoregression, producing total connectedness indices and clean, fossil-net connectedness measures. Finally, we forecast each connectedness index using deep learning models (NBEATSx, Temporal Fusion Transformer, temporal convolutional networks, and TimesNet) under rolling evaluation and quantify macro-driver relevance with permutation feature importance. Spillovers are structurally high, spike at short horizons during COVID-19, and become more persistent at medium–long horizons during the Russia-Ukraine and Middle East conflict regimes. Fossil ETFs act as long-run net transmitters, whereas clean ETFs transmit mainly at short/medium horizons under heightened uncertainty. The proposed indicators provide deployable, horizon-specific early-warning inputs for energy-market surveillance, utility hedging and procurement, and transition policy design toward Net Zero and SDG 7.
+ER  - 

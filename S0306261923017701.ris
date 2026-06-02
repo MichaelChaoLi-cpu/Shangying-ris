@@ -1,0 +1,22 @@
+TY  - JOUR
+T1  - Bi-level planning approach for incorporating the demand-side flexibility of cloud data centers under electricity-carbon markets
+AU  - Zeng, Bo
+AU  - Zhou, Yinyu
+AU  - Xu, Xinzhu
+AU  - Cai, Danting
+JO  - Applied Energy
+VL  - 357
+SP  - 122406
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2023.122406
+UR  - https://www.sciencedirect.com/science/article/pii/S0306261923017701
+KW  - Cloud data center
+KW  - Demand-side flexibility
+KW  - Cloud users
+KW  - Bi-level programming
+KW  - Electricity-carbon market
+KW  - Allocation planning
+AB  - With the prevalence of cloud computing applications, cloud data centers (CDCs) are proliferating around the world. However, in the context of hybrid energy‑carbon markets environment, the high energy costs and environmental expenses caused by CDC operation are pressing CDC owners to restructure the future development of CDC in a more economical and low-carbon manner. The potential spatio-temporal transferability and reducibility of workloads provides CDCs with significant flexibility in their operations and thus may interact with the power grid as active demand users. Nonetheless, other than private data centers, public CDCs have no direct control over the workloads submitted by terminal cloud users. As such, this paper presents a bi-level model for CDC allocation planning, so as to incorporate cloud service-demand response (CS-DR) from the perspective of a hybrid electricity-carbon market. The upper level pertains to multi-domain resource collaborative planning model, which determines the optimum siting and sizing of CDCs as well as the incentive design for CS-DR program, with the objective of maximizing the total expected benefits of CDC. The lower level models correspond to the market clearing (electricity-carbon tariff model) of Independent system operator (ISO) and the decision-making of cloud users regarding CS-DR participation. The proposed model belongs to a bi-level mixed integer nonlinear programming problem with two non-convex lower levels, which can be intractable in mathematics. To solve such difficult problem, a hybrid solution method combining multiple linearization techniques and reformulation and decomposition (R&D) strategy based on column-and-constraint generation (C&CG) algorithm is developed. The proposed model is demonstrated on a modified IEEE 30-bus test case, and the simulation results verified the effectiveness of the proposed approach.
+ER  - 

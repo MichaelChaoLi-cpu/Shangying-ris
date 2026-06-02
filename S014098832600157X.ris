@@ -1,0 +1,23 @@
+TY  - JOUR
+T1  - Power hungry: How AI will drive energy demand
+AU  - Bogmans, Christian
+AU  - Ganpurev, Ganchimeg
+AU  - Gomez-Gonzalez, Patricia
+AU  - Melina, Giovanni
+AU  - Pescatori, Andrea
+AU  - Thube, Sneha
+JO  - Energy Economics
+VL  - 158
+SP  - 109278
+PY  - 2026
+DA  - 2026/06/01/
+SN  - 0140-9883
+DO  - https://doi.org/10.1016/j.eneco.2026.109278
+UR  - https://www.sciencedirect.com/science/article/pii/S014098832600157X
+KW  - AI
+KW  - Data centers
+KW  - Energy and the macroeconomy
+KW  - Climate change and growth
+KW  - CGE models
+AB  - The development and deployment of large language models like ChatGPT worldwide require the expansion of data centers, which consume substantial amounts of electricity. Using descriptive statistics and a multi-country computable general equilibrium model (IMF-ENV), we examine how AI-driven data center growth affects electricity consumption, electricity prices, and carbon emissions. Our analysis of national accounts reveals AI-producing sectors in the U.S. have grown at nearly triple the rate of the private non-farm business sector, with firm-level evidence showing electricity costs for vertically integrated AI companies nearly doubled between 2019-2023. Simulating AI scenarios in the IMF-ENV model based on projected data center power consumption up to 2030, we find the AI boom will cause manageable but varying increases in energy prices and emissions depending on policies and infrastructure constraints. Under scenarios with constrained growth in renewable energy and limited expansion of transmission infrastructure, U.S. electricity prices could increase by 8.6%, while U.S. and global carbon emissions would rise by 5.5% and 1.2% respectively under current policies. Our findings highlight the importance of aligning energy policies with AI development to support this technological revolution, while mitigating environmental impacts.
+ER  - 

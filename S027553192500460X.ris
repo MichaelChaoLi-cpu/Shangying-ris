@@ -1,0 +1,19 @@
+TY  - JOUR
+T1  - Attention to renewable energy: A risk-factor for stocks in the renewable energy sector
+AU  - Lyócsa, Štefan
+AU  - Tabaček, Jakub
+JO  - Research in International Business and Finance
+VL  - 81
+SP  - 103204
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 0275-5319
+DO  - https://doi.org/10.1016/j.ribaf.2025.103204
+UR  - https://www.sciencedirect.com/science/article/pii/S027553192500460X
+KW  - Renewable energy
+KW  - Limited attention
+KW  - Price fluctuations
+KW  - Machine learning
+KW  - Forecasting
+AB  - Increased interest in renewable energy sources among governments and the public lead to a question whether such an elevated interest is relevant enough to be one of the driving factors in pricing renewable energy stocks. We study the feasibility of this idea by modeling the daily price variation in renewable energy stocks in the U.S. We use 32 web search queries to create six new attention indices that capture the interest of the general public towards (i) general renewable energy, (ii) solar power, (iii) wind power, (iv) the renewable grid and utilities, (v) electric mobility, and (vi) biofuels. While controlling for stock-level price variations, interest and market uncertainty, we find in-sample and out-of-sample evidence that attention improves model fit and forecasting accuracy. Out-of-sample results reveal forecasting accuracy improvements ranging up to 12.3% on average, based on the QLIKE loss function. Forecast improvements cluster in periods of higher market uncertainty, where attention seems to matter the most.
+ER  - 

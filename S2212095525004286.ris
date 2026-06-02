@@ -1,0 +1,19 @@
+TY  - JOUR
+T1  - Responses of surface and canopy heat islands to extreme temperatures: A synergistic analysis in the Beijing-Tianjin-Hebei urban agglomeration
+AU  - Haiyi, Yang
+AU  - Fei, Yang
+AU  - Dewan, Ashraf
+JO  - Urban Climate
+VL  - 64
+SP  - 102712
+PY  - 2025
+DA  - 2025/12/01/
+SN  - 2212-0955
+DO  - https://doi.org/10.1016/j.uclim.2025.102712
+UR  - https://www.sciencedirect.com/science/article/pii/S2212095525004286
+KW  - Surface-canopy UHI
+KW  - Extreme temperature events
+KW  - Biophysical drivers
+KW  - Synergistic analysis
+AB  - Urban heat island (UHI) and extreme temperature events increasingly challenge sustainable urban development. However, the differential responses of surface urban heat island (SUHI) and canopy urban heat island (CUHI) under extreme temperature conditions remain less studied. This study investigated the differential responses of SUHI and CUHI intensity under multiple extreme temperature scenarios (eSUHII and eCUHII) using seamless daily land surface temperature (LST) data and high-resolution surface air temperature (SAT) data in the Beijing-Tianjin-Hebei (BTH) region of China. An integrated analytical framework, combining geo-statistical analysis and explainable machine learning approaches, was developed to assess the differential driving mechanisms. Results revealed distinct UHI responses: eSUHII in the BTH region significantly weakened (decreasing by 0.47 °C and 0.44 °C for daytime and nighttime) whereas the change in eCUHII was asymmetric (decreasing by 0.27 °C for daytime but increasing by 0.08 °C for nighttime) during extreme temperature events. The Geodetector analysis of driving mechanisms indicated that soil moisture had distinct effects between urban and rural areas on eSUHII, while eCUHII was controlled firstly by soil moisture followed by wind speed. XGBoost-SHAP further confirmed these patterns, quantifying that soil moisture and wind speed are key drivers for eSUHII while eCUHII was controlled by wind speed and soil moisture with consistent patterns. Synergistic evaluation showed high consistency in identifying key factors while revealing different urban characteristic influences. The findings provide new insights into the development of targeted climate adaptation strategies, particularly optimizing urban design and implementing differentiated thermal mitigation measures for surface and canopy UHI under extremes.
+ER  - 

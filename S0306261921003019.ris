@@ -1,0 +1,19 @@
+TY  - JOUR
+T1  - Usage impact on data center electricity needs: A system dynamic forecasting model
+AU  - Koot, Martijn
+AU  - Wijnhoven, Fons
+JO  - Applied Energy
+VL  - 291
+SP  - 116798
+PY  - 2021
+DA  - 2021/06/01/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2021.116798
+UR  - https://www.sciencedirect.com/science/article/pii/S0306261921003019
+KW  - Data centers
+KW  - Data center electricity needs
+KW  - System dynamic forecasting
+KW  - Moore’s law
+KW  - Internet of Things
+AB  - This article presents a forecasting model of data center electricity needs based on understanding usage growth and we conclude that this growth is not fully compensated by efficiency gains of data center technological innovations. We predict a combined growth of data center electricity needs of 286 TWh in 2016 until about 321 TWh in 2030, if all currently known growth factors remain the same. We next run simulations for the end of Moore’s law and the growth of industrial Internet of Things (IoT). The end of Moore’s law results in about 658 TWh for 2030 and an increase of the share of global data center electricity consumption from about 1.15% in 2016 to 1.86% in 2030. A rise of the Industrial IoT may result into total energy consumption of about 364 TWh (about 1.03%) in 2030. Moore’s law and IoT combined cause data center energy needs going up to 752 TWh in 2030, and about 2.13% of global electricity available. Our sensitivity analysis reveals that the future impact of the data centers’ electricity consumption is vulnerable to behavioral usage trends, since the 95% confidence interval of [343, 1031] TWh is relatively wide. Our forecasts, however, exclude the energy needs of mobile devices, edge and fog computing. We offer a system dynamic model and simulation input data selected from the existing literature for replicating this study and applying alternative parameters to it. We further suggest multiple research directions on usage impact on data center energy consumption.
+ER  - 

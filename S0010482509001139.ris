@@ -1,0 +1,21 @@
+TY  - JOUR
+T1  - Automated Arabidopsis plant root cell segmentation based on SVM classification and region merging
+AU  - Marcuzzo, Monica
+AU  - Quelhas, Pedro
+AU  - Campilho, Ana
+AU  - Maria Mendonça, Ana
+AU  - Campilho, Aurélio
+JO  - Computers in Biology and Medicine
+VL  - 39
+IS  - 9
+SP  - 785
+EP  - 793
+PY  - 2009
+DA  - 2009/09/01/
+SN  - 0010-4825
+DO  - https://doi.org/10.1016/j.compbiomed.2009.06.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0010482509001139
+KW  - Biomedical image processing
+KW  - Biological cells
+AB  - To obtain development information of individual plant cells, it is necessary to perform in vivo imaging of the specimen under study, through time-lapse confocal microscopy. Automation of cell detection/marking process is important to provide research tools in order to ease the search for special events, such as cell division. In this paper we discuss an automatic cell detection approach for Arabidopsis thaliana based on segmentation, which selects the best cell candidates from a starting watershed-based image segmentation and improves the result by merging adjacent regions. The selection of individual cells is obtained using a support vector machine (SVM) classifier, based on a cell descriptor constructed from the shape and edge strength of the cells’ contour. In addition we proposed a novel cell merging criterion based on edge strength along the line that connects adjacent cells’ centroids, which is a valuable tool in the reduction of cell over-segmentation. The result is largely pruned of badly segmented and over-segmented cells, thus facilitating the study of cells. When comparing the results after merging with the basic watershed segmentation, we obtain 1.5% better coverage (increase in F-measure) and up to 27% better precision in correct cell segmentation.
+ER  - 

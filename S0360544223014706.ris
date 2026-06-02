@@ -1,0 +1,21 @@
+TY  - JOUR
+T1  - Investigation of energy, exergy, and economy of co-generation system of solar electricity and cooling using linear parabolic collector for a data center
+AU  - Alipour, Mehran
+AU  - Deymi-Dashtebayaz, Mahdi
+AU  - Asadi, Mostafa
+JO  - Energy
+VL  - 279
+SP  - 128076
+PY  - 2023
+DA  - 2023/09/15/
+SN  - 0360-5442
+DO  - https://doi.org/10.1016/j.energy.2023.128076
+UR  - https://www.sciencedirect.com/science/article/pii/S0360544223014706
+KW  - Data center
+KW  - Solar energy
+KW  - Multi-generation system
+KW  - Exergy
+KW  - Exergoeconomic
+KW  - Multi-objective optimization
+AB  - At present, data centers serve as primary providers of information technology infrastructure, thereby consuming a significant quantity of electrical energy. Considering the growing trend of heightened electricity consumption and heat generation within data centers, leading to increased expenses, coupled with mounting attention to energy preservation and ecological preservation, the deployment of electricity generation systems and solar cooling technologies presents an alluring solution. The present study introduces an integrated system powered by a parabolic collector, an organic Rankine cycle, and a two-effect absorption chiller. A solar parabolic collector system was evaluated as a potential means of providing thermal energy to the power generation and cooling systems. The methodology employed in this study involved the utilization of an Organic Rankine Cycle (ORC) to produce electricity while the cooling generation process was carried out using an absorption cycle. The optimization of both the absorption system and the ORC was performed utilizing the temperature data derived from the parabolic collector. Ultimately, a contrastive analysis was conducted to explore the correlation between cooling storage and electrical power depending on the degree of the parabolic collector. The collective expenditure for electricity and cooling system maintenance within the data center amounts to 1202392 USD. Based on an analysis of the associated expenses for electricity and cooling, the Payback Period (PBP) is determined to be 3.407 years, whereas the Levelized Cost of Energy (LCOE) stands at 0.05815 $ per kilowatt hour. The proposed system underwent an annual assessment encompassing analysis of performance, as well as considerations of the pertinent factors of energy, economics, and the environment. The findings indicate that the utilization of this system can mitigate the release of 1421 metric tons of carbon dioxide annually. The suggested amalgamated framework that couples solar power generation and cooling system holds immense promise in the realm of sustainable development. This optimism stems from the notable advantages of energy conservation, prospective economic benefits, and eco-friendliness that the system embodies.
+ER  - 

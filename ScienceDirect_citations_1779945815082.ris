@@ -1,0 +1,18 @@
+TY  - JOUR
+T1  - The impact of Australian ETS news on wholesale spot electricity prices: An exploratory analysis
+AU  - Chevallier, Julien
+JO  - Energy Policy
+VL  - 38
+IS  - 8
+SP  - 3910
+EP  - 3921
+PY  - 2010
+DA  - 2010/08/01/
+SN  - 0301-4215
+DO  - https://doi.org/10.1016/j.enpol.2010.03.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0301421510001771
+KW  - CPRS
+KW  - Australian ETS
+KW  - Electricity spot prices
+AB  - This article investigates the impact of news concerning the development of emissions trading in Australia (such as the Carbon Pollution Reduction Scheme (CPRS)) on wholesale electricity spot prices, by using a database of 117 news announcements from December 1, 1998 to July 1, 2009. As power producers constitute the bulk of the participants of the proposed Australian emissions trading scheme, regulatory changes (about allocation, banking, coverage, targets) are indeed likely to affect the five interconnected electricity markets in New South Wales, Queensland, South Australia, Victoria, and Tasmania. We assess these effects with an ARMA(1,1)-GARCH(1,1) model, where daily electricity spot prices are regressed against exogenous variables in the mean and variance equations. This article constitutes the first empirical analysis of Australian ETS news effects on electricity wholesale spot prices. Our results show two asymmetric types of news effects, depending on their information content.
+ER  - 

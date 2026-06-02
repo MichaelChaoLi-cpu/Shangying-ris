@@ -1,0 +1,32 @@
+
+TY  - JOUR
+T1  - ESG Tendencies From News Investigated by AI Trained by Human Intelligence
+AU  - Li, Chao
+AU  - Keeley, Alexander Ryota
+AU  - Takeda, Shutaro
+AU  - Seki, Daikichi
+AU  - Managi, Shunsuke
+Y1  - 2025/02/01
+PY  - 2025
+DA  - 2025/02/01
+DO  - https://doi.org/10.1002/bse.4089
+T2  - Business Strategy and the Environment
+JF  - Business Strategy and the Environment
+JO  - Business Strategy and the Environment
+JA  - Bus Strat Env
+SP  - 1880
+EP  - 1895
+VL  - 34
+IS  - 2
+KW  - data mining
+KW  - ESG
+KW  - machine learning
+KW  - natural language processing
+KW  - news
+KW  - pre-trained transformer
+PB  - John Wiley & Sons, Ltd
+SN  - 0964-4733
+UR  - https://doi.org/10.1002/bse.4089
+Y2  - 2026/04/22
+N2  - ABSTRACT We create a large language model with high accuracy to investigate the relatedness between 12 environmental, social, and governance (ESG) topics and more than 2 million news reports. The text match pre-trained transformer (TMPT) with 138,843,049 parameters is built to probe whether and how much a news record is connected to a specific topic of interest. The TMPT, based on the transformer structure and a pre-trained model, is an artificial intelligence model trained by more than 200,000 academic papers. The cross-validation result reveals that the TMPT's accuracy is 85.73%, which is excellent in zero-shot learning tasks. In addition, combined with sentiment analysis, our research monitors news attitudes and tones toward specific ESG topics daily from September 2021 to September 2023. The results indicate that the media is increasing discussion on social topics, while the news regarding environmental issues is reduced. Moreover, toward almost all topics, the attitudes are gradually becoming positive. Our research highlights the temporal shifts in public perception regarding 12 key ESG issues:ESG has been incrementally accepted by the public. These insights are invaluable for policymakers, corporate leaders, and communities as they navigate sustainable decision-making.
+ER  - 

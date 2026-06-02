@@ -1,0 +1,33 @@
+TY  - JOUR
+T1  - Health effects of summer extreme heat and humidity in urban Rio de Janeiro (Brazil) by demographic and educational level
+AU  - López-Bueno, José Antonio
+AU  - Libonati, Renata
+AU  - Monteiro dos Santos, Djacinto
+AU  - Navas-Martin, Miguel Ángel
+AU  - Díaz, Julio
+AU  - Linares, Cristina
+AU  - Russo, Ana
+AU  - Trigo, Ricardo
+JO  - Urban Climate
+VL  - 62
+SP  - 102524
+PY  - 2025
+DA  - 2025/08/01/
+SN  - 2212-0955
+DO  - https://doi.org/10.1016/j.uclim.2025.102524
+UR  - https://www.sciencedirect.com/science/article/pii/S2212095525002408
+KW  - Heat wave
+KW  - Mortality
+KW  - Race
+KW  - Age
+KW  - Education
+KW  - Women
+AB  - Background
+Local studies on heat-related mortality in Brazil are limited, hindering targeted Heat-Health Action Plans (HHAPs).
+Methods
+This is a time series on the Metropolitan Region of Rio de Janeiro (MRJ) between 1997 and 2019. The epidemiological threshold (TTrh) for extreme heat events (EHEs) was identified using temperature-mortality associations, adjusting for trends, seasonality, and autoregression (Box-Jenkins). EHEs are those summer days (DJF) with maximum temperatures > TTrh. Attributable mortality (AM%) was estimated by time-controlled Poisson GLM models. Dependent variable was natural-cause mortality, and independent variables were EHE intensity in °C (Theat), duration of the EHE, rank of the event (order), and their corresponding lagged variables. Subgroup analyses included age, sex, race, and education.
+Results
+The TTrh was 34 °C (73rd percentile). RH contributes to explain the underlying effects of heat on health, but it did not improve the predictive power of the model. The most vulnerable groups were the elderly, women, less educated people, and Black and Brown. The most significant EHEs are among the first of each season.
+Conclusion
+This is the first study to establish an epidemiological heat wave threshold for MRJ. HHAPs should be triggered when forecasts predict Tmax above 34 °C. A climatological approach is inadequate for early warnings. Prevention should prioritize women, lower socioeconomic groups, and the elderly. Although humidity did not improve model performance, MRJ's high humidity levels may pose risks under combined heat-humidity events, highlighting the need to consider synoptic conditions in future protocols.
+ER  - 

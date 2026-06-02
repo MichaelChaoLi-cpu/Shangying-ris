@@ -1,0 +1,24 @@
+
+TY  - JOUR
+AU  - Zanatto, Cássio
+AU  - Catalão-Lopes, Margarida
+AU  - Pina, Joaquim P.
+AU  - Carrilho-Nunes, Inês
+TI  - The impact of ESG news on the volatility of the Portuguese stock market—Does it change during recessions?
+JO  - Business Strategy and the Environment
+JA  - Bus Strat Env
+VL  - 32
+IS  - 8
+SN  - 0964-4733
+UR  - https://doi.org/10.1002/bse.3450
+DO  - https://doi.org/10.1002/bse.3450
+SP  - 5821
+EP  - 5832
+KW  - business cycle
+KW  - ESG
+KW  - GARCH
+KW  - PSI-20
+KW  - stock returns volatility
+PY  - 2023
+AB  - Abstract This paper assesses how environmental, social, and governance (ESG) news influence Portuguese stock market volatility depending on the business cycle. Given the lack of an adequate index to capture the effects of ESG media on the Portuguese stock market, a News Sentiment Index is developed. This index, which captures positive and negative ESG news on companies listed in the Portuguese Stock Index (PSI-20), is then used as an external regressor in symmetric and asymmetric GARCH-type models employed to model the stock market volatility. Results show that during non-crisis periods ESG news reduce returns' volatility, and that when considering the period preceding the financial crisis the disclosure content (positive or negative) of the news matter. However, during economic downturns, neither the amount nor the content disclosure of ESG news affect volatility; thus, ESG preoccupations might no longer be paramount.
+ER  - 

@@ -1,0 +1,32 @@
+TY  - JOUR
+T1  - Climate change, social environment, health, and urban inequality: Developing a novel adaptive evaluation framework
+AU  - Jia, Nan
+AU  - Li, Yinshuai
+AU  - Jiang, Zhimeng
+AU  - Su, Rongfei
+AU  - Lan, Xin
+AU  - Zhang, Kai
+AU  - Song, Wen
+AU  - Zhao, Rui
+AU  - Xia, Zilong
+AU  - Song, Yongze
+AU  - Zhang, Zehua
+AU  - Wang, Mengting
+AU  - Wang, Ru
+AU  - Zhang, Zhan
+AU  - Chen, Ruishan
+JO  - Sustainable Cities and Society
+VL  - 127
+SP  - 106443
+PY  - 2025
+DA  - 2025/06/01/
+SN  - 2210-6707
+DO  - https://doi.org/10.1016/j.scs.2025.106443
+UR  - https://www.sciencedirect.com/science/article/pii/S2210670725003191
+KW  - Urban inequality index
+KW  - Evaluation framework
+KW  - Climate change
+KW  - Human health
+KW  - Shanghai
+AB  - With the increasing trend of population concentration and more frequent disaster events in cities, understanding the dynamics of urban inequalities of cities has become crucial for enabling faster and more efficient citizen responses with reduced risks. However, existing models often fail to effectively capture the complex and multifaceted nature of urban inequalities due to their inability to represent the weights and dynamic changes of the evaluation framework. To address this limitation, we propose a novel adaptive framework based on Bidirectional Encoder Representations from Transformers (BERT) that leverages a literature-driven meta-analysis to comprehensively assess the spatial dynamics of the Urban Inequality Index (UII). The framework involves a structured three-step process. First, we gather and screen 35, 819 in total scholarly literature within defined temporal scopes to acquire UII related to economic, educational, infrastructural, environmental, social, and health dimensions to ensure a broad and diverse dataset. Second, we employ BERT and a weights calculation algorithm to identify and weigh potential indicators, providing a contextualized understanding that surpasses conventional analytic techniques. Finally, we amalgamate and process data from assorted sources to formulate a panel dataset, facilitating the computation of the UII, followed by spatial analysis and visualization to expose underlying patterns and trends. We applied this framework to reveal significant spatial dynamics and trends in UII for the periods 2000–2010 and 2010–2020, using Shanghai as a case study. Our findings emphasize the increasing importance of environmental indicators in UII evaluation, reflecting broader global trends toward sustainability and resilience. These results underscore the need for continuous monitoring and adaptive policies to mitigate urban inequality and promote more equitable urban development effectively and also highlight the evolution of the urban inequality assessment framework from 2010 to 2020 illustrating a strategic pivot towards addressing environmental sustainability and resilience against climate change and integrating green infrastructure into urban planning. This study provides a valuable tool for urban planners and policymakers to assess and address urban inequality, offering a replicable and adaptable framework to advance sustainable urban planning practices and support sustainable urban development globally.
+ER  - 

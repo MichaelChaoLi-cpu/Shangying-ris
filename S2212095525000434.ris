@@ -1,0 +1,20 @@
+TY  - JOUR
+T1  - Temperature-related mortality and future health risks from climate change in a middle eastern Metropolis
+AU  - Riahi, Peran
+AU  - Khorsandi, Babak
+JO  - Urban Climate
+VL  - 59
+SP  - 102327
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 2212-0955
+DO  - https://doi.org/10.1016/j.uclim.2025.102327
+UR  - https://www.sciencedirect.com/science/article/pii/S2212095525000434
+KW  - Ambient temperature
+KW  - Climate change
+KW  - Mortality
+KW  - Time series regression
+KW  - Distributed lag non-linear models (DLNM)
+KW  - RCP scenarios
+AB  - This study investigates the effect of past and future temperatures on five distinct causes of mortality, including non-accidental causes, as well as diseases related to the cardiovascular, respiratory, nervous systems, and diabetes in Tehran, Iran. Data on meteorological conditions and mortality were obtained for 7 years. To create a model for the association between temperature and death from the diseases, a time-series quasi-Poisson regression in combination with a distributed lag non-linear model was used. Extreme cold and hot temperatures were assessed to determine relative risks (RRs) at the 2.5th and 97.5th percentiles of the temperature distribution. To quantify the future risks, projections of average temperature for 2090–2099 from General Circulation Models under Representative Concentration Pathways scenarios downscaled by LARS-WG were used. Our results revealed that cold temperatures are more harmful to mortality than hot temperatures. The RRs for non-accidental deaths at extreme cold for the group of elderlies (aged≥65) is significant (1.20, %95 CI: 1.02–1.41, p-value<0.05). Elderlies are also at a higher risk of dying from respiratory ailments. The RRs for nervous system diseases and diabetes are significant (p-value<0.05) for extreme cold temperatures. The effects of projected temperature changes on causes of mortality except non-accidental causes and cardiovascular diseases are not statistically significant. However, the RRs of respiratory mortality rises with colder temperatures. The findings of this research can lead to the identification of sensitive populations exposed to non-optimal temperatures. Lastly, this research provides decision-makers with important information for planning preventive measures to reduce temperature-related mortality.
+ER  - 

@@ -1,0 +1,31 @@
+TY  - JOUR
+AU  - Colangelo, Philip
+AU  - Coskun, Ayse K.
+AU  - Megrue, Jack
+AU  - Roberts, Ciaran
+AU  - Sengupta, Shayan
+AU  - Sivaram, Varun
+AU  - Tiao, Ethan
+AU  - Vijaykar, Aroon
+AU  - Williams, Chris
+AU  - Wilson, Daniel C.
+AU  - Records, Brandon
+AU  - MacFarland, Zack
+AU  - Dreiling, Daniel
+AU  - Morey, Nathan
+AU  - Ratnayake, Anuja
+AU  - Vairamohan, Baskar
+PY  - 2026
+DA  - 2026/02/01
+TI  - AI data centres as grid-interactive assets
+JO  - Nature Energy
+SP  - 254
+EP  - 261
+VL  - 11
+IS  - 2
+AB  - The exponential growth in electricity demand driven by artificial intelligence (AI) is threatening grid reliability, increasing energy costs for communities funding new infrastructure and slowing AI innovation as data centres await interconnection to constrained grids. Here we present a field demonstration of a software-based method that enables AI data centres to operate as flexible grid resources. Tested on a 256-Graphics Processing Unit (GPU) cluster running representative AI workloads in a hyperscale cloud facility in Phoenix, Arizona, the system reduced power usage by 25% for 3 hours during peak demand while maintaining AI quality of service guarantees. By coordinating workloads in response to real-time grid signals, without hardware modifications or energy storage, this approach demonstrates the potential for data centres to contribute to grid stability and affordability while sustaining computational performance within existing power-system constraints.
+SN  - 2058-7546
+UR  - https://doi.org/10.1038/s41560-025-01927-1
+DO  - 10.1038/s41560-025-01927-1
+ID  - Colangelo2026
+ER  - 

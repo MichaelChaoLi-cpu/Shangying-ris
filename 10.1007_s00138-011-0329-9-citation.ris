@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Sethuraman, Vijaya
+AU  - French, Andrew
+AU  - Wells, Darren
+AU  - Kenobi, Kim
+AU  - Pridmore, Tony
+PY  - 2012
+DA  - 2012/07/01
+TI  - Tissue-level segmentation and tracking of cells in growing plant roots
+JO  - Machine Vision and Applications
+SP  - 639
+EP  - 658
+VL  - 23
+IS  - 4
+AB  - With the spread of systems approaches to biological research, there is increasing demand for methods and tools capable of extracting quantitative measurements of biological samples from individual and time-based sequences of microscope images. To this end, we have developed a software tool for tissue level segmentation and automatic tracking of a network of cells in confocal images of the roots of the model plant Arabidopsis thaliana. The tool implements a novel hybrid technique, which is a combination of the recently developed Network Snakes technique and MCMC-based particle filters and incorporates automatic initialisation of the network snakes. A novel method of evaluation of network-structured multi-target tracking is also presented, and is used to evaluate the developed tracking framework for accuracy and robustness against several timelapse sequences of Arabidopsis roots. Evaluation results are presented, along with a comparison between the results of the component techniques and the hybrid approach. The results show that the hybrid approach performed consistently well at all levels of complexity and better than the component methods alone.
+SN  - 1432-1769
+UR  - https://doi.org/10.1007/s00138-011-0329-9
+DO  - 10.1007/s00138-011-0329-9
+ID  - Sethuraman2012
+ER  - 

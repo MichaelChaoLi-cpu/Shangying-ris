@@ -1,0 +1,20 @@
+TY  - JOUR
+T1  - A link between ESG topic emphases in security report and stock price
+AU  - Li, Chao
+AU  - Keeley, Alexander Ryota
+AU  - Managi, Shunsuke
+JO  - Journal of Cleaner Production
+VL  - 552
+SP  - 148017
+PY  - 2026
+DA  - 2026/03/22/
+SN  - 0959-6526
+DO  - https://doi.org/10.1016/j.jclepro.2026.148017
+UR  - https://www.sciencedirect.com/science/article/pii/S0959652626005561
+KW  - Security report
+KW  - Stock price
+KW  - ESG
+KW  - Natural language processing
+KW  - Machine learning
+AB  - Environmental, social, and governance (ESG) considerations have become essential for promoting corporate sustainability and performance. However, existing studies rarely quantify the emphasis placed on specific ESG topics in mandatory corporate disclosures or examine how such textual emphasis relates to stock price dynamics. This study investigates the ESG topic emphases of top Japanese firms listed on the Tokyo Stock Exchange by analyzing 2194 security reports published between 2015 and 2024. Using a large language model, text matching pre-trained transformer, we quantify the emphases placed on four critical ESG topics, namely greenhouse gas, diversity, human rights, and employee engagement, and examine their relationship with stock prices through advanced machine learning techniques, particularly XGBoost, with a 95.98% validation accuracy. Our findings indicate that while financial fundamentals significantly influence stock valuations, ESG topic emphases, especially on human rights and employee engagement, add approximately 5% predictive power. Among four ESG topics, diversity receives the highest emphasis, followed by employee engagement, human rights, and GHG. A 1% increase in the emphasis on human rights is related to an average annual stock price increase of 27.73 JPY, whereas a similar increase in diversity emphasis and employee engagement is associated with a decrease of 6.50 JPY and 11.87 JPY, respectively. These results emphasize the critical role of ESG disclosures in shaping investor perceptions and market responses. For investors, the study identifies ESG signals linked to stock performance; for corporations, it highlights the strategic importance of targeted ESG communication; and for policymakers, it provides evidence to guide standardized sustainability reporting. The study advances the understanding of the link between text-based ESG information and financial value, demonstrating the analytical power of machine learning in sustainability research.
+ER  - 

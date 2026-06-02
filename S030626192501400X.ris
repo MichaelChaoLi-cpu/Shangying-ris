@@ -1,0 +1,27 @@
+TY  - JOUR
+T1  - A systematic review of transformers and large language models in the energy sector: towards agentic digital twins
+AU  - Antonesi, Gabriel
+AU  - Cioara, Tudor
+AU  - Anghel, Ionut
+AU  - Michalakopoulos, Vasilis
+AU  - Sarmas, Elissaios
+AU  - Toderean, Liana
+JO  - Applied Energy
+VL  - 401
+SP  - 126670
+PY  - 2025
+DA  - 2025/12/15/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2025.126670
+UR  - https://www.sciencedirect.com/science/article/pii/S030626192501400X
+KW  - Artificial intelligence
+KW  - Transformers
+KW  - Large language models
+KW  - Foundation models
+KW  - GenAI
+KW  - Generative AI
+KW  - Agentic digital twins
+KW  - Energy sector
+KW  - Smart grid
+AB  - Artificial intelligence (AI) has long promised to improve energy management in smart grids by enhancing situational awareness and supporting more effective decision-making. While traditional machine learning has demonstrated notable results in forecasting and optimization, it often struggles with generalization, situational awareness, and heterogeneous data integration. Recent advances in Transformer architecture, including Large Language Models (LLMs) and Foundation Models (FMs) can significantly improve the ability to model complex temporal and contextual relationships, as well as in multi-modal data fusion which is valuable for most AI applications in the energy sector. In this review, we synthesize the rapidly expanding field of AI applications in the energy domain, with a focus on Transformer Models (TMs) and LLMs, which have shown growing relevance. We examine the architectural foundations, domain-specific adaptations and practical implementations of TMs across various forecasting and grid management tasks. We then explore the emerging role of LLMs in the field: adaptation and fine tuning for the energy sector, the type of tasks they are suited for, and the new challenges they introduce. Along the way, we highlight practical implementations, innovations, and areas where the research frontier is rapidly expanding. These recent developments reviewed underscore a broader trend: Generative AI (GenAI) is beginning to augment decision-making not only in high-level planning but also in day-to-day operations, from forecasting and grid balancing to workforce training and asset onboarding. While FMs hold promises, we found limited evidence of their concrete application in energy domain to date. Therefore we introduce the concept of the Agentic Digital Twin, a next-generation model that integrates FMs to bring multi-modal situational awareness, autonomy, proactivity, and social interaction into digital twin-based energy management systems. We present the transformational impact of FMs to each phase of a digital twin and identify the open challenges that need to be addressed for their efficient and effective integration.
+ER  - 

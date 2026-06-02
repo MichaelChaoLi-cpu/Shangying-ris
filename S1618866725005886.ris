@@ -1,0 +1,27 @@
+TY  - JOUR
+T1  - Influence of urban ecotypes and built-up morphology on extreme heat events
+AU  - Qiao, Renlu
+AU  - Wu, Tao
+AU  - Chen, Zheyin
+AU  - Zhao, Zexu
+AU  - Liu, Zhiyu
+AU  - Zhou, Shiqi
+AU  - Wang, Mo
+AU  - Meng, Xi
+AU  - Xu, Xiaodong
+AU  - Wu, Zhiqiang
+JO  - Urban Forestry & Urban Greening
+VL  - 117
+SP  - 129254
+PY  - 2026
+DA  - 2026/03/01/
+SN  - 1618-8667
+DO  - https://doi.org/10.1016/j.ufug.2025.129254
+UR  - https://www.sciencedirect.com/science/article/pii/S1618866725005886
+KW  - Extreme heat events
+KW  - Urban ecological type
+KW  - Urban morphology
+KW  - Evapotranspiration
+KW  - Ensemble machine learning
+AB  - Extreme Heat Events (EHEs) have intensified under global warming and rapid urbanization; however, the distinct impacts of vegetation types and urban morphology remain insufficiently quantified. This study evaluates how urban ecotypes and built-up morphology influence both the frequency (TX90p) and intensity (TXx7) of EHEs across China from 2011 to 2020, and explores the mediating role of evapotranspiration (ET). An ensemble learning framework (LightGBM combined with SHAP) was applied to identify nonlinear drivers, while a fixed-effects model was employed to assess ET-mediated pathways. Results indicate that vegetation exerts contrasting effects: a 29.8 % increase in grass cover lowers TXx7 by 0.05°C and TX90p by 0.07 %, whereas an 11.7 % increase in tree cover reduces TXx7 by 0.07°C but slightly raises TX90p by 0.02 %. Mediation analysis indicates that ET fully explains the effects of grass, and accounts for 75.9 % of shrub and 25.7 % of tree impacts. Built-up morphology shows dual roles: building density rising by 10.6 % reduces TX90p by 0.05 %, while building height rising by 20.37 m slightly increases TXx7 by 0.001°C. These findings provide new empirical evidence that vegetation types and urban form contribute differently to urban heat dynamics through ET mechanisms, offering critical guidance for targeted greening and morphological strategies to mitigate EHE risks, and providing scientific support for climate-resilient urban greening aligned with SDG 11 and SDG 13.
+ER  - 

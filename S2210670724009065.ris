@@ -1,0 +1,24 @@
+TY  - JOUR
+T1  - Compound health effects and risk assessment of extreme heat and ozone air pollution under climate change: A case study of 731 urban areas in China
+AU  - He, Zhen
+AU  - Wu, Zhiqiang
+AU  - Herzog, Otthein
+AU  - Hei, Jinghao
+AU  - Li, Lan
+AU  - Li, Xiang
+JO  - Sustainable Cities and Society
+VL  - 119
+SP  - 106084
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 2210-6707
+DO  - https://doi.org/10.1016/j.scs.2024.106084
+UR  - https://www.sciencedirect.com/science/article/pii/S2210670724009065
+KW  - Extreme heat
+KW  - Surface ozone
+KW  - Cancer incidence
+KW  - Compound health effect
+KW  - Interpretable spatial machine learning
+KW  - Urban dual environmental exposure risk assessment
+AB  - Extreme heat and air pollution are critical environmental issues that directly impact human health, and their effects are exacerbated under climate change. While numerous studies have investigated the health impacts of extreme heat or air pollution individually, limited research focuses on their combined effects. To address this gap, we constructed an interpretable spatial machine learning model to explore the synergistic interactions between extreme heat and ozone on cancer incidence across 731 urban areas in China. Our model revealed that nighttime extreme heat intensity has stronger association with cancer incidence compared to daytime heat, and that combined exposure to extreme heat and ozone amplifies health risks. We identified significant nonlinear relationships and threshold effects among environmental exposures and health outcomes. Building on these findings, we developed the Urban Dual Environmental Exposure Risk Index (UDEERI) based on IPCC's hazard-exposure-vulnerability framework. UDEERI highlighted significant regional disparities in health risks, identifying high-risk regions primarily in northwestern deserts, central China, eastern coastal areas, and Sichuan-Chongqing metropolitan cluster. Our study fills a critical gap in understanding the compound health risks of extreme heat and elevated ozone under climate change, providing important scientific evidence to support targeted prevention and intervention strategies for sustainable and healthy cities.
+ER  - 

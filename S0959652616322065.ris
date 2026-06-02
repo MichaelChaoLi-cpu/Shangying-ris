@@ -1,0 +1,23 @@
+TY  - JOUR
+T1  - Consideration of marginal electricity in real-time minimization of distributed data centre emissions
+AU  - Dandres, Thomas
+AU  - Farrahi Moghaddam, Reza
+AU  - Nguyen, Kim Khoa
+AU  - Lemieux, Yves
+AU  - Samson, Réjean
+AU  - Cheriet, Mohamed
+JO  - Journal of Cleaner Production
+VL  - 143
+SP  - 116
+EP  - 124
+PY  - 2017
+DA  - 2017/02/01/
+SN  - 0959-6526
+DO  - https://doi.org/10.1016/j.jclepro.2016.12.143
+UR  - https://www.sciencedirect.com/science/article/pii/S0959652616322065
+KW  - Distributed data centre optimization
+KW  - GHG emissions
+KW  - Real-time electricity generation
+KW  - Marginal electricity
+AB  - Among the innovative approaches to reduce the greenhouse gas (GHG) emissions of data centres during their use phase, cloud computing systems relying on data centres located in different regions appear promising. Cloud computing technology enables real-time load migration to a data centre in the region where the GHG emissions per kWh are the lowest. In this paper, we propose a novel approach to minimize GHG emissions cloud computing relying on distributed data centres. Unlike previous optimization approaches, our method considers the marginal GHG emissions caused by load migrations inside the electric grid instead of only considering the average emissions of the electric grid's prior load migrations. Results show that load migrations make it possible to minimize marginal GHG emissions of the cloud computing service. Comparison with the usual approach using average emission factors reveals its inability to truly minimize GHG emissions of distributed data centres. There is also a potential conflict between current GHG emissions accounting methods and marginal GHG emissions minimization. This conflict may prevent the minimization of GHG emissions in multi-regional systems such as cloud computing systems and other smart systems such as smart buildings and smart-grids. While techniques to model marginal electricity mixes need to be improved, it has become critical to reconcile the use of marginal and average emissions factors in minimization of and accounting for GHG emissions.
+ER  - 

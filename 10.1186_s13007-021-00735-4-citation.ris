@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Phalempin, Maxime
+AU  - Lippold, Eva
+AU  - Vetterlein, Doris
+AU  - Schlüter, Steffen
+PY  - 2021
+DA  - 2021/04/08
+TI  - An improved method for the segmentation of roots from X-ray computed tomography 3D images: Rootine v.2
+JO  - Plant Methods
+SP  - 39
+VL  - 17
+IS  - 1
+AB  - X-ray computed tomography is acknowledged as a powerful tool for the study of root system architecture of plants growing in soil. In this paper, we improved the original root segmentation algorithm “Rootine” and present its succeeding version “Rootine v.2”. In addition to gray value information, Rootine algorithms are based on shape detection of cylindrical roots. Both algorithms are macros for the ImageJ software and are made freely available to the public. New features in Rootine v.2 are (i) a pot wall detection and removal step to avoid segmentation artefacts for roots growing along the pot wall, (ii) a calculation of the root average gray value based on a histogram analysis, (iii) an automatic calculation of thresholds for hysteresis thresholding of the tubeness image to reduce the number of parameters and (iv) a false negatives recovery based on shape criteria to increase root recovery. We compare the segmentation results of Rootine v.1 and Rootine v.2 with the results of root washing and subsequent analysis with WinRhizo. We use a benchmark dataset of maize roots (Zea mays L. cv. B73) grown in repacked soil for two scenarios with differing soil heterogeneity and image quality.
+SN  - 1746-4811
+UR  - https://doi.org/10.1186/s13007-021-00735-4
+DO  - 10.1186/s13007-021-00735-4
+ID  - Phalempin2021
+ER  - 

@@ -1,0 +1,23 @@
+TY  - JOUR
+T1  - The geography of climate concern: A large-scale analysis of public discourse on extreme heat in China using social media and explainable AI
+AU  - Zhang, Pu
+AU  - Li, Yiliang
+AU  - Wei, Zheng
+AU  - Hui, Pan
+JO  - Environmental Impact Assessment Review
+VL  - 117
+SP  - 108227
+PY  - 2026
+DA  - 2026/03/01/
+SN  - 0195-9255
+DO  - https://doi.org/10.1016/j.eiar.2025.108227
+UR  - https://www.sciencedirect.com/science/article/pii/S019592552500424X
+KW  - Extreme heat
+KW  - Social media
+KW  - Environmental impact assessment
+KW  - Explainable AI
+KW  - Geospatial analysis
+KW  - Climate communication
+KW  - Environmental justice
+AB  - As extreme heatwaves intensify into a primary public health threat under climate change, understanding the dynamics of public perception is critical for effective risk communication. While traditional methods are limited in scale and timeliness, social media offers an unprecedented real-time window into public discourse. This study provides the first large-scale, computational analysis of Chinese public discourse on extreme heat, leveraging 348,417 user comments from the platform Douyin. After addressing multicollinearity through a rigorous variable reduction process, our novel framework combines a Large Language Model (LLM) for thematic classification with an FDR-corrected regression model and an explainable AI (SHAP) analysis to identify and interpret the drivers of public concern. Thematically, we find a stark divergence between the most frequent topics (e.g., regional comparisons) and the most publicly endorsed topics (e.g., fatalism and mutual care), revealing latent community values. Our regression analysis, corrected for multiple comparisons, reveals a powerful and statistically robust link: higher maximum temperatures directly drive increased public discourse on both “Health Impacts” and “Entertainment and Emotional Venting.” The SHAP analysis provides a deeper layer of insight, revealing that underlying geographical context (i.e., average elevation) and socioeconomic status exert the greatest overall influence on the nature of the conversation, shaping everything from tourism-related discussions to expressions of social vulnerability. These findings demonstrate that public discourse on heat is shaped by a hierarchy of factors, from statistically robust climate triggers to highly impactful socioeconomic and geographical contexts. This work provides a scalable framework for a dynamic Social and Health Impact Assessment (SIA/HIA), underscoring the need for tailored communication strategies that account for both environmental exposure and social vulnerability.
+ER  - 

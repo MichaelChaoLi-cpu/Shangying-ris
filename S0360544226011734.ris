@@ -1,0 +1,27 @@
+TY  - JOUR
+T1  - AI and digitalization in electricity markets with renewables and electric vehicles: A review of price volatility, forecasting, and stability approaches
+AU  - Basaran, Kivanc
+AU  - Chandrakala, K.R.M. Vijaya
+AU  - Lazaroiu, George Cristian
+AU  - Parhamfar, Mohammad
+AU  - Roscia, Mariacristina
+AU  - Lazaroiu, Alexandra Catalina
+AU  - Siano, Pierluigi
+JO  - Energy
+VL  - 354
+SP  - 141068
+PY  - 2026
+DA  - 2026/07/01/
+SN  - 0360-5442
+DO  - https://doi.org/10.1016/j.energy.2026.141068
+UR  - https://www.sciencedirect.com/science/article/pii/S0360544226011734
+KW  - Energy price
+KW  - Artificial intelligence (AI)
+KW  - Digitalization
+KW  - Electric vehicles (EVs)
+KW  - Demand- side management (DSM)
+KW  - Electricity market trading
+KW  - Explainable AI (XAI)
+KW  - Optimization techniques
+AB  - The rapidly increasing integration of renewable energy sources (RES) and electric vehicles (EVs) is making energy systems more sustainable. But it also causes unpredictable fluctuations and price volatility in energy markets. These findings address major concerns about the system's stability and efficiency. The conventional techniques of price forecasts cannot be relied upon in the face of fluctuating production and demand uncertainties. In all of the above circumstances, the use of Artificial Intelligence (AI) and digitalization techniques is quite effective in enhancing the stability of energy price forecasts. The use of digitalization techniques, such as Artificial Intelligence (AI)-based price forecast algorithms, digital twins, energy markets using blockchain trading, AI algorithms and data analysis of energy price volatility, and Vehicle to Grid (V2G) and price stability, is discussed in detail. The available literature has been studied, and it has been found that there is a need to focus on specific areas of energy markets and specific technologies. In all of the above circumstances, there is a need for an overall system-wide approach. In addition, further research is required on the compatibility of AI algorithms and performance review system requirements, transparency of decision support system software, and regulatory system requirements. In all of the above circumstances, the sustainability of energy price forecasts has been analyzed in detail. In addition, the use of multi-scenario-based sustainability has been discussed. The objective of the study is not only to enhance the sustainability of energy price forecasts, but also the adaptability of energy markets.
+ER  - 
