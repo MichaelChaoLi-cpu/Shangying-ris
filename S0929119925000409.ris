@@ -1,0 +1,19 @@
+TY  - JOUR
+T1  - News-driven peer co-movement in crypto markets
+AU  - Schwenkler, G.
+AU  - Zheng, H.
+JO  - Journal of Corporate Finance
+VL  - 93
+SP  - 102772
+PY  - 2025
+DA  - 2025/07/01/
+SN  - 0929-1199
+DO  - https://doi.org/10.1016/j.jcorpfin.2025.102772
+UR  - https://www.sciencedirect.com/science/article/pii/S0929119925000409
+KW  - Cryptocurrencies
+KW  - Peers
+KW  - Co-movement
+KW  - Financial news
+KW  - Natural language processing
+AB  - This paper develops a novel methodology to identify peer linkages among cryptocurrencies using natural language processing applied to financial news. We document a distinct pattern of conditional co-movement among peer assets: when a cryptocurrency experiences a large idiosyncratic shock, its peers — identified through news co-mentions — exhibit abnormal returns of the opposite sign. This mis-pricing persists for several weeks and enables profitable trading strategies. Our findings suggest that investor overreaction to news drives these dynamics, highlighting the role of financial media in shaping prices. The proposed methodology extends beyond crypto, offering a generalizable approach to studying peer effects and news-driven pricing distortions.
+ER  - 

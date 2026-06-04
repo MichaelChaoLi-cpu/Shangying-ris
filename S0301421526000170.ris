@@ -1,0 +1,23 @@
+TY  - JOUR
+T1  - Shifting roles of renewable and fossil energy in the ENTSO-E countries: Evidence from a novel war-induced energy intensity index
+AU  - Wang, Guanghao
+AU  - Do, Hung Xuan
+AU  - Liu, Chenghao
+AU  - Sbai, Erwann
+AU  - Silva, Emilson
+JO  - Energy Policy
+VL  - 210
+SP  - 115083
+PY  - 2026
+DA  - 2026/03/01/
+SN  - 0301-4215
+DO  - https://doi.org/10.1016/j.enpol.2026.115083
+UR  - https://www.sciencedirect.com/science/article/pii/S0301421526000170
+KW  - Russia-Ukraine war
+KW  - ENTSO-E
+KW  - Renewable energy
+KW  - Fossil energy
+KW  - TVP-VAR model
+KW  - QARDL model
+AB  - The Russia-Ukraine war, escalating in February 2022, severely disrupted European energy markets. This conflict significantly increases energy security concerns and drives costs to unprecedented levels. This study investigates the evolving roles of renewable and fossil energy in mitigating this insecurity. We introduce a novel War-Induced Energy Intensity (WEI) index, constructed from over 507,574 news reports and tweets using large language models (LLMs). Our employed LLMs enable us to apply a scoring framework that precisely captures the intensity of fossil energy induced by the war. Validation tests across 24 European countries confirm that our WEI outperforms existing geopolitical risk indices in explaining wholesale electricity market dynamics. A structural break test identifies a significant market shift in early 2022, coinciding with the conflict's outbreak. This provides a statistical basis for our pre- and post-conflict analysis, which reveals a reversal of roles. Before 2022, fossil fuels played a stabilizing role in electricity markets. After the conflict began, their supply disruptions exacerbated market risks. In contrast, renewable energy sources – particularly wind, solar, and hydropower – emerged as key stabilizers, significantly reducing market instability. These findings underscore the growing importance of renewables in ensuring energy security during geopolitical crises.
+ER  - 

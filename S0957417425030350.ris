@@ -1,0 +1,21 @@
+TY  - JOUR
+T1  - Forecasting crude oil futures price uncertainty: an explainable deep learning framework integrating news sentiment
+AU  - Mao, Yaqi
+AU  - Yu, Xiaobing
+AU  - Zhu, Junhua
+AU  - Wang, Feng
+JO  - Expert Systems with Applications
+VL  - 297
+SP  - 129419
+PY  - 2026
+DA  - 2026/02/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2025.129419
+UR  - https://www.sciencedirect.com/science/article/pii/S0957417425030350
+KW  - Crude oil price uncertainty
+KW  - News sentiment
+KW  - Variable selection
+KW  - Forecasting
+KW  - Interpretability
+AB  - Accurate forecasting of crude oil futures prices is crucial for guiding energy investment strategies, managing market risk, and informing policy decisions. This study proposes NewsSent-CFS-GBO-TFT, an interpretable deep learning framework that integrates cutting-edge artificial intelligence techniques with practical financial engineering methods. The framework begins by extracting sentiment signals from unstructured news text using a pretrained language model, which are then integrated with a wide range of economic variables—such as supply–demand dynamics, financial market conditions, and macroeconomic uncertainty—to form a comprehensive feature set. To address the challenges of high-dimensional data, we propose a Collaborative Feature Selection (CFS) strategy that utilizes multiple evaluation criteria to assess feature importance from various perspectives, effectively reducing redundancy and improving model robustness and generalization. Additionally, the model leverages a Gradient-Based Optimizer (GBO) to simultaneously refine the architecture and hyperparameters of the Temporal Fusion Transformer (TFT), delivering both accurate point forecasts and multi-level confidence interval estimates. Empirical results demonstrate that the NewsSent-CFS-GBO-TFT model outperforms traditional benchmark models in both forecast accuracy and uncertainty quantification. Interpretability analysis reveals that short-horizon predictions are primarily influenced by trading day effects and temporal signals, while medium- and long-term forecasts increasingly reflect macroeconomic factors and geopolitical risks. The proposed approach offers transparent, high-fidelity predictive insights, providing valuable decision-support tools for investors, risk managers, and policymakers navigating volatile market environments.
+ER  - 

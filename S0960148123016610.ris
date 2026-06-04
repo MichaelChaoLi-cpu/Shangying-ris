@@ -1,0 +1,22 @@
+TY  - JOUR
+T1  - The energy transition: The behavior of renewable energy stock during the times of energy security uncertainty
+AU  - Igeland, Philip
+AU  - Schroeder, Leon
+AU  - Yahya, Muhammad
+AU  - Okhrin, Yarema
+AU  - Uddin, Gazi Salah
+JO  - Renewable Energy
+VL  - 221
+SP  - 119746
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0960-1481
+DO  - https://doi.org/10.1016/j.renene.2023.119746
+UR  - https://www.sciencedirect.com/science/article/pii/S0960148123016610
+KW  - Renewable energy
+KW  - Energy security
+KW  - Green metals
+KW  - Uncertainty
+KW  - MS-GARCH
+AB  - The global energy sector is experiencing a transition towards renewable energy primarily driven by issues related to climate change and energy security. In this paper, we investigate the impact of uncertainties and potential drivers connected to energy security on the volatilities and returns of renewable energy stocks. Further, we examine how uncertainty and potential drivers connected to energy security affect the volatilities and returns of renewable energy stocks. By applying the MS-GARCH (1,1) and MS-GJR-GARCH (1,1) approach we calculate the Value at Risk (VaR) and Conditional Value-at Risk (CVaR). In addition, we estimate a fixed effects model to determine the impact of the uncertainty variables on the estimated conditional volatility and returns. Our findings indicate that economic policy uncertainty (EPU) positively impacts the returns of renewable stocks, attributing to an increased engagement towards a renewable transition. However, the prices of crucial green metals were found to have a negative impact on renewable stocks suggesting that the transition to renewable energy might impose implications regarding energy security if not managed correctly. The findings of this study have important implications for policymakers, market participants, and governmental agencies in devising a roadmap to promote the transition process to renewable energy sources.
+ER  - 
