@@ -1,0 +1,23 @@
+TY  - JOUR
+T1  - ELStar: An elastic long- and short-term multi-interest user modeling network for agricultural news recommendation
+AU  - Tong, Yiqi
+AU  - Guo, Wei
+AU  - Guo, Wei
+AU  - Zhuang, Fuzhen
+AU  - Wang, Deqing
+AU  - Wu, Huarui
+JO  - Knowledge-Based Systems
+VL  - 336
+SP  - 115284
+PY  - 2026
+DA  - 2026/03/15/
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2026.115284
+UR  - https://www.sciencedirect.com/science/article/pii/S0950705126000286
+KW  - Agricultural news recommendation
+KW  - Long-term interest modeling
+KW  - Short-term interest modeling
+KW  - Multi-interest modeling
+KW  - Elastic user modeling
+AB  - Agricultural news recommendation systems play a vital role in mitigating information overload within the rapidly expanding media landscape. However, existing news recommendation methods typically model user interests as a single or fixed number of feature representations, which presents significant challenges when applied to the agricultural domain. First, users often exhibit diverse interests spanning multiple subfields within agriculture, making it insufficient to capture user preferences with a single unified representation. Second, current methods that rely on fixed-size multi-interest modeling lack the flexibility to adapt to the varying breadth of interests exhibited by agricultural users across different career roles. Third, user interests in the agricultural domain demonstrate different levels of stability, manifesting as the coexistence of long-term fundamental preferences and short-term contextual interests. To address these problems, this paper proposes ELStar, an elastic long- and short-term multi-interest user modeling network for agricultural news recommendation. ELStar initializes users’ long-term interests from a global interest pool and employs a diversity-aware selection-and-aggregation strategy to elastically generate long-term user representations. Additionally, a self-additive attention mechanism is introduced to capture users’ short-term unique interest based on their recent click behaviors. Finally, a target-aware matching network is proposed to generate personalized news recommendations by integrating both long- and short-term multi-interest representations. Extensive experiments on two real-world agricultural news recommendation datasets validate the superiority of our proposed ELStar compared with various state-of-the-art news recommendation baselines.
+ER  - 

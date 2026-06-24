@@ -1,0 +1,22 @@
+TY  - JOUR
+T1  - Unveiling dynamics in agricultural supply chain : A transformer-enhanced framework for commodity price modeling
+AU  - Yi, Zelong
+AU  - Liang, Zhuomin
+AU  - Xie, Tongtong
+AU  - Fu, Yelin
+AU  - Liu, Yun
+JO  - International Journal of Production Economics
+VL  - 294
+SP  - 109820
+PY  - 2026
+DA  - 2026/04/01/
+SN  - 0925-5273
+DO  - https://doi.org/10.1016/j.ijpe.2025.109820
+UR  - https://www.sciencedirect.com/science/article/pii/S0925527325003056
+KW  - Agricultural Commodity Price Forecasting
+KW  - Trend-Calibrated Autoformer (TCA)
+KW  - Chain-of-Thought (CoT) strategy
+KW  - Large language model (LLM)
+KW  - Sentiment signals
+AB  - The severe volatility of agricultural commodity prices poses significant risks to the stability of global agricultural supply chains, directly impacting producers, processors, and policymakers in multi-horizon decision-making related to procurement, inventory, and risk management. As a core global food crop, the price of wheat presents challenges for accurate forecasting due to the complex factors, non-stationarity, and dynamic shifting characteristics, with traditional models struggling to capture these patterns, often leading to accumulated biases in long-term predictions. To address this, we propose a Trend-Calibrated Autoformer (TCA) model to extract periodic and trend features from time series through autocorrelation encoding and trend decomposition, significantly enhancing prediction accuracy via a dynamic calibration mechanism. This study validates the model using approximately 21,000 news articles and macroeconomic data, innovatively introducing a Chain-of-Thought (CoT) strategy with large language models (LLMs) to quantify news sentiment signals. The results demonstrate that TCA outperforms multiple state-of-the-art models in 1-, 5-, and 10-day multi-step wheat price predictions, exhibiting superior performance. Further analysis reveals that short-term price fluctuations are predominantly driven by interest rates, medium-term trends peak with monetary and macro indicators, and long-term dynamics reflect a balanced influence of multiple factors including sentiment and macroeconomic conditions. This study advances the application of exogenous volatility theory in agricultural supply chain risk management, elucidating the dynamic impacts of behavioral signals and macroeconomic trends on price fluctuations. It provides practical insights for supply chain managers to optimize resource allocation and strategic decision-making, while offering a scalable framework for predictive modeling of other highly volatile commodities.
+ER  - 

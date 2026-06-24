@@ -1,0 +1,24 @@
+TY  - JOUR
+T1  - A novel text-based framework for forecasting agricultural futures using massive online news headlines
+AU  - Li, Jianping
+AU  - Li, Guowen
+AU  - Liu, Mingxi
+AU  - Zhu, Xiaoqian
+AU  - Wei, Lu
+JO  - International Journal of Forecasting
+VL  - 38
+IS  - 1
+SP  - 35
+EP  - 50
+PY  - 2022
+DA  - 2022/01/01/
+SN  - 0169-2070
+DO  - https://doi.org/10.1016/j.ijforecast.2020.02.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0169207020300194
+KW  - Agricultural futures
+KW  - Price forecasting
+KW  - Text analysis
+KW  - Financial risk
+KW  - Influential factors
+AB  - The agricultural futures prices are generally considered difficult to forecast because the causes of fluctuations are incredibly complicated. We propose a text-based forecasting framework, which can effectively identify and quantify factors affecting agricultural futures based on massive online news headlines. A comprehensive list of influential factors can be formed using a text mining method called topic modeling. A new sentiment-analysis-based way is designed to quantify the factors such as the weather and policies that are important yet difficult to quantify. The proposed framework is empirically tested at forecasting soybean futures prices in the Chinese market. Testing was based on 9715 online news headlines from July 19, 2012 to July 9, 2018. The results show that the identified influential factors and sentiment-based variables are effective, and the proposed framework performs significantly better in medium-term and long-term forecasting than the benchmark model.
+ER  - 

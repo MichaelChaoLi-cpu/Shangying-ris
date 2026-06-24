@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Gerlach, Sibylle
+AU  - Yu, Xiaohua
+AU  - Feil, Jan-Henning
+PY  - 2026
+DA  - 2026/03/02
+TI  - Success factors of agrifood start-ups – perspectives from machine learning
+JO  - Agricultural and Food Economics
+SP  - 20
+VL  - 14
+IS  - 1
+AB  - In light of multiple challenges, start-ups in the agrifood sector are increasingly seen as key levers for resilience and sustainability. Yet, their actual success has rarely been analysed quantitatively, mainly due to a lack of data. This article contributes to close this gap by identifying success factors of agrifood start-ups in Germany, based on a unique survey of 110 founders conducted between July 2021 and May 2022. In this context, success factors are defined as founder- and company-related characteristics that are associated with the progress of start-ups through development stages. To address the high dimensionality of explanatory variables, a Random Forest model was applied for feature selection first, followed by a multinomial logit model to analyse the determinants of start-up development. Results indicate that business model choice (technological orientation and scalability) and founders’ networking skills are positively linked to advancement, while hardware-intensive, production-system innovations face friction. The findings suggest that policy makers should reduce regulatory barriers, strengthen entrepreneurship education and adopt stage-specific support schemes, providing technological and testing infrastructures in early stages and scaling support in later ones. Investors can adapt financing instruments to long innovation cycles, and founders benefit from strategic partnerships and early skill development.
+SN  - 2193-7532
+UR  - https://doi.org/10.1186/s40100-026-00465-y
+DO  - 10.1186/s40100-026-00465-y
+ID  - Gerlach2026
+ER  - 

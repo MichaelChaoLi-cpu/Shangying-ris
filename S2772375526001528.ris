@@ -1,0 +1,21 @@
+TY  - JOUR
+T1  - Digital surveillance and outbreak analysis of fire blight using news-based text mining
+AU  - Hue, Yoeguang
+AU  - Nam, Yebin
+AU  - Choi, Byungheon
+AU  - Kim, Ki-Tae
+JO  - Smart Agricultural Technology
+VL  - 13
+SP  - 101928
+PY  - 2026
+DA  - 2026/03/01/
+SN  - 2772-3755
+DO  - https://doi.org/10.1016/j.atech.2026.101928
+UR  - https://www.sciencedirect.com/science/article/pii/S2772375526001528
+KW  - Fire blight
+KW  - Plant disease monitoring
+KW  - Text mining
+KW  - Unstructured data
+KW  - Natural language processing
+AB  - Fire blight is a bacterial plant disease that causes significant damage to Rosaceae crops, including apples and pears. Although it has long been problematic in North America, its spread to Asia has been relatively recent. The first officially reported outbreak in the Republic of Korea occurred in 2015 in Anseong, Gyeonggi Province. To support timely monitoring using publicly available information, an end-to-end deployable digital surveillance system is presented that converts unstructured Korean news into structured outbreak records (date and location) using a large language model-based extraction module, and its reliability was validated against official outbreak records (∼91% agreement). Since then, the disease has rapidly spread across major fruit-producing regions, such as Chungcheong and Gangwon Provinces, prompting the implementation of strict national control policies. Although Korea currently uses a localized version of the Maryblyt model for disease forecasting, challenges related to weather data collection and maintenance costs have highlighted the need for alternative approaches. Furthermore, a regression analysis incorporating historical outbreak data showed that news frequency effectively explained the actual damage levels (R2 = 0.77), suggesting that quantifying social attention from news can complement conventional weather- and phenology-based disease forecasting models in plant disease epidemiology. These results support the use of news data as a reliable and cost-effective complementary resource. With further refinement in addressing news bias and reliability, integration into multivariate predictive models, and expansion to other pest and disease domains, the system has strong potential to evolve into a precise digital surveillance and early warning framework. The News-based Plant Disease Tracker is available at: https://disease.scnu.ac.kr.
+ER  - 

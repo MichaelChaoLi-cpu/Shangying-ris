@@ -1,0 +1,21 @@
+TY  - JOUR
+T1  - How connected is the agricultural commodity market to the news-based investor sentiment?
+AU  - Akyildirim, Erdinc
+AU  - Cepni, Oguzhan
+AU  - Pham, Linh
+AU  - Uddin, Gazi Salah
+JO  - Energy Economics
+VL  - 113
+SP  - 106174
+PY  - 2022
+DA  - 2022/09/01/
+SN  - 0140-9883
+DO  - https://doi.org/10.1016/j.eneco.2022.106174
+UR  - https://www.sciencedirect.com/science/article/pii/S0140988322003279
+KW  - Spillovers
+KW  - Agricultural commodities
+KW  - Sentiment
+KW  - COVID-19
+KW  - Time-varying robust granger causality
+AB  - Previous studies indicate a substantial time-variation in the co-movement of commodity futures markets and economic fundamentals. This paper examines the connectedness and directional spillovers for both the agricultural commodity futures markets and the corresponding sentiment indices. We first construct dynamic time-varying connectedness measures both for the agricultural commodity returns and sentiments. Then, we use panel data regressions and time-varying Granger causality tests to evaluate whether the spillovers between these returns and sentiments are influenced by the economic and financial uncertainties, including the global COVID-19 pandemic. In particular, we document that the COVID-19 induced uncertainty influences agricultural commodity returns and sentiments significantly around the first cycle of the pandemic in 2020. Last but not least, economic policy and financial market uncertainty are also found to be significant determinants of the connectedness between agricultural commodity returns and sentiment spillovers.
+ER  - 

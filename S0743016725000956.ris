@@ -1,0 +1,19 @@
+TY  - JOUR
+T1  - From social media to price swings: Dissecting the dynamic key drivers of public sentiment on the pricing fluctuation of minor agricultural products
+AU  - Fu, Lifang
+AU  - Liu, Yuhan
+JO  - Journal of Rural Studies
+VL  - 117
+SP  - 103655
+PY  - 2025
+DA  - 2025/07/01/
+SN  - 0743-0167
+DO  - https://doi.org/10.1016/j.jrurstud.2025.103655
+UR  - https://www.sciencedirect.com/science/article/pii/S0743016725000956
+KW  - Minor agricultural products
+KW  - Price fluctuation characteristics
+KW  - Public sentiment
+KW  - Consumers
+KW  - TVP-VAR
+AB  - Minor agricultural products, characterized by limited supply-demand scales and geographic concentration, face severe sentiment-driven price volatility exacerbated by speculation. Challenging static supply-demand frameworks, this study proposes a novel framework using ginger to integrate online sentiment text mining with a Time-Varying Parameter Vector Autoregression (TVP-VAR) model. Three sentiment factors—market speculation, transaction willingness, and consumer attention—are extracted from social media (2019–2022). The TVP-VAR model captures their time-sensitive impacts via impulse response analysis. Key findings reveal temporally heterogeneous mechanisms: market speculation dominates mid-term trends (3–6 months), while transaction willingness drives short-term volatility (0–3 months) with rapid decay. Consumer attention shows asymmetric effects. Crucially, it uncovers regime shifts in factor dominance: during supply chain disruptions (e.g., COVID-19 lockdowns), speculation's influence intensified remarkably compared to stable periods. Theoretically, this study bridges behavioral economics and agricultural markets by showing sentiment overrides supply-demand equilibria, offering empirical evidence. Practically, it enables dynamic monitoring: real-time sentiment analytics help policymakers preempt speculation and mitigate panic, enhancing market stability. The framework's adaptability to concentrated commodities (e.g., garlic, spice crops) supports agricultural economic stabilization, providing scalable tools for efficiency-risk balance.
+ER  - 
